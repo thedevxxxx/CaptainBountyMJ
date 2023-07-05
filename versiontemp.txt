@@ -1,0 +1,7 @@
+pinpai:test; huanjin:online; 
+hall:1.0.1085;
+hall_quyou:1.0.29;
+hh:1.0.58;
+huanlesanshimiao:1.0.10;
+bcbm:1.0.59;
+wurenniuniu:1.0.17;

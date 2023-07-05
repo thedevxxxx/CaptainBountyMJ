@@ -1,0 +1,41 @@
+{
+"skeleton": { "hash": "RYh2gThsMzoao/IqWIp7gRcldNY", "spine": "3.8.99", "x": -104, "y": -104, "width": 208, "height": 208 },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "bw_particle_b/bw_particle_b_00", "bone": "root", "attachment": "bw_particle_b/bw_particle_b_00" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"bw_particle_b/bw_particle_b_00": {
+				"bw_particle_b/bw_particle_b_00": { "width": 208, "height": 208 },
+				"bw_particle_b/bw_particle_b_01": { "width": 208, "height": 208 },
+				"bw_particle_b/bw_particle_b_02": { "width": 208, "height": 208 },
+				"bw_particle_b/bw_particle_b_03": { "width": 208, "height": 208 },
+				"bw_particle_b/bw_particle_b_04": { "width": 208, "height": 208 },
+				"bw_particle_b/bw_particle_b_05": { "width": 208, "height": 208 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"bw_particle_b/bw_particle_b_00": {
+				"attachment": [
+					{ "name": "bw_particle_b/bw_particle_b_00" },
+					{ "time": 0.0333, "name": "bw_particle_b/bw_particle_b_01" },
+					{ "time": 0.0667, "name": "bw_particle_b/bw_particle_b_02" },
+					{ "time": 0.1, "name": "bw_particle_b/bw_particle_b_03" },
+					{ "time": 0.1333, "name": "bw_particle_b/bw_particle_b_04" },
+					{ "time": 0.1667, "name": "bw_particle_b/bw_particle_b_05" },
+					{ "time": 0.2, "name": "bw_particle_b/bw_particle_b_00" }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,146 @@
+
+bonus_bg_particle.png
+size: 1738,1712
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonus_bg_particle_00
+  rotate: false
+  xy: 2, 1028
+  size: 432, 340
+  orig: 432, 340
+  offset: 0, 0
+  index: -1
+bonus_bg_particle_01
+  rotate: false
+  xy: 436, 1370
+  size: 432, 340
+  orig: 432, 340
+  offset: 0, 0
+  index: -1
+bonus_bg_particle_02
+  rotate: false
+  xy: 2, 686
+  size: 432, 340
+  orig: 432, 340
+  offset: 0, 0
+  index: -1
+bonus_bg_particle_03
+  rotate: false
+  xy: 436, 1028
+  size: 432, 340
+  orig: 432, 340
+  offset: 0, 0
+  index: -1
+bonus_bg_particle_04
+  rotate: false
+  xy: 870, 1370
+  size: 432, 340
+  orig: 432, 340
+  offset: 0, 0
+  index: -1
+bonus_bg_particle_05
+  rotate: false
+  xy: 2, 344
+  size: 432, 340
+  orig: 432, 340
+  offset: 0, 0
+  index: -1
+bonus_bg_particle_06
+  rotate: false
+  xy: 436, 686
+  size: 432, 340
+  orig: 432, 340
+  offset: 0, 0
+  index: -1
+bonus_bg_particle_07
+  rotate: false
+  xy: 870, 1028
+  size: 432, 340
+  orig: 432, 340
+  offset: 0, 0
+  index: -1
+bonus_bg_particle_08
+  rotate: false
+  xy: 1304, 1370
+  size: 432, 340
+  orig: 432, 340
+  offset: 0, 0
+  index: -1
+bonus_bg_particle_09
+  rotate: false
+  xy: 2, 2
+  size: 432, 340
+  orig: 432, 340
+  offset: 0, 0
+  index: -1
+bonus_bg_particle_10
+  rotate: false
+  xy: 436, 344
+  size: 432, 340
+  orig: 432, 340
+  offset: 0, 0
+  index: -1
+bonus_bg_particle_11
+  rotate: false
+  xy: 870, 686
+  size: 432, 340
+  orig: 432, 340
+  offset: 0, 0
+  index: -1
+bonus_bg_particle_12
+  rotate: false
+  xy: 1304, 1028
+  size: 432, 340
+  orig: 432, 340
+  offset: 0, 0
+  index: -1
+bonus_bg_particle_13
+  rotate: false
+  xy: 436, 2
+  size: 432, 340
+  orig: 432, 340
+  offset: 0, 0
+  index: -1
+bonus_bg_particle_14
+  rotate: false
+  xy: 870, 344
+  size: 432, 340
+  orig: 432, 340
+  offset: 0, 0
+  index: -1
+bonus_bg_particle_15
+  rotate: false
+  xy: 1304, 686
+  size: 432, 340
+  orig: 432, 340
+  offset: 0, 0
+  index: -1
+bonus_bg_particle_16
+  rotate: false
+  xy: 870, 2
+  size: 432, 340
+  orig: 432, 340
+  offset: 0, 0
+  index: -1
+bonus_bg_particle_17
+  rotate: false
+  xy: 1304, 344
+  size: 432, 340
+  orig: 432, 340
+  offset: 0, 0
+  index: -1
+bonus_bg_particle_18
+  rotate: false
+  xy: 1304, 2
+  size: 432, 340
+  orig: 432, 340
+  offset: 0, 0
+  index: -1
+bonus_bg_particle_19
+  rotate: false
+  xy: 2, 1370
+  size: 432, 340
+  orig: 432, 340
+  offset: 0, 0
+  index: -1

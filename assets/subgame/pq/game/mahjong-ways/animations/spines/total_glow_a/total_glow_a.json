@@ -1,0 +1,95 @@
+{
+"skeleton": { "hash": "ldvKatuHgY0bXftxdzMs/Ly6VDA", "spine": "3.8.99", "x": -270, "y": -316.5, "width": 540, "height": 633 },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "total_glow_a/total_glow_a_00", "bone": "root", "attachment": "total_glow_a/total_glow_a_00", "blend": "additive" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"total_glow_a/total_glow_a_00": {
+				"total_glow_a/total_glow_a_00": { "width": 540, "height": 633 },
+				"total_glow_a/total_glow_a_01": { "y": 0.5, "width": 540, "height": 633 },
+				"total_glow_a/total_glow_a_02": { "y": 0.5, "width": 540, "height": 633 },
+				"total_glow_a/total_glow_a_03": { "y": 0.5, "width": 540, "height": 633 },
+				"total_glow_a/total_glow_a_04": { "y": 0.5, "width": 540, "height": 633 },
+				"total_glow_a/total_glow_a_05": { "y": 0.5, "width": 540, "height": 633 },
+				"total_glow_a/total_glow_a_06": { "y": 0.5, "width": 540, "height": 633 },
+				"total_glow_a/total_glow_a_07": { "y": 0.5, "width": 540, "height": 633 },
+				"total_glow_a/total_glow_a_08": { "y": 0.5, "width": 540, "height": 633 },
+				"total_glow_a/total_glow_a_09": { "y": 0.5, "width": 540, "height": 633 },
+				"total_glow_a/total_glow_a_10": { "y": 0.5, "width": 540, "height": 633 },
+				"total_glow_a/total_glow_a_11": { "y": 0.5, "width": 540, "height": 633 },
+				"total_glow_a/total_glow_a_12": { "y": 0.5, "width": 540, "height": 633 },
+				"total_glow_a/total_glow_a_13": { "y": 0.5, "width": 540, "height": 633 },
+				"total_glow_a/total_glow_a_14": { "y": 0.5, "width": 540, "height": 633 },
+				"total_glow_a/total_glow_a_15": { "y": 0.5, "width": 540, "height": 633 },
+				"total_glow_a/total_glow_a_16": { "y": 0.5, "width": 540, "height": 633 },
+				"total_glow_a/total_glow_a_17": { "y": 0.5, "width": 540, "height": 633 },
+				"total_glow_a/total_glow_a_18": { "y": 0.5, "width": 540, "height": 633 },
+				"total_glow_a/total_glow_a_19": { "y": 0.5, "width": 540, "height": 633 },
+				"total_glow_a/total_glow_a_20": { "y": 0.5, "width": 540, "height": 633 },
+				"total_glow_a/total_glow_a_21": { "y": 0.5, "width": 540, "height": 633 },
+				"total_glow_a/total_glow_a_22": { "y": 0.5, "width": 540, "height": 633 },
+				"total_glow_a/total_glow_a_23": { "y": 0.5, "width": 540, "height": 633 },
+				"total_glow_a/total_glow_a_24": { "y": 0.5, "width": 540, "height": 633 },
+				"total_glow_a/total_glow_a_25": { "y": 0.5, "width": 540, "height": 633 },
+				"total_glow_a/total_glow_a_26": { "y": 0.5, "width": 540, "height": 633 },
+				"total_glow_a/total_glow_a_27": { "y": 0.5, "width": 540, "height": 633 },
+				"total_glow_a/total_glow_a_28": { "y": 0.5, "width": 540, "height": 633 },
+				"total_glow_a/total_glow_a_29": { "y": 0.5, "width": 540, "height": 633 },
+				"total_glow_a/total_glow_a_30": { "y": 0.5, "width": 540, "height": 633 },
+				"total_glow_a/total_glow_a_31": { "y": 0.5, "width": 540, "height": 633 },
+				"total_glow_a/total_glow_a_32": { "y": 0.5, "width": 540, "height": 633 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"total_glow_a/total_glow_a_00": {
+				"attachment": [
+					{ "name": "total_glow_a/total_glow_a_00" },
+					{ "time": 0.0333, "name": "total_glow_a/total_glow_a_01" },
+					{ "time": 0.0667, "name": "total_glow_a/total_glow_a_02" },
+					{ "time": 0.1, "name": "total_glow_a/total_glow_a_03" },
+					{ "time": 0.1333, "name": "total_glow_a/total_glow_a_04" },
+					{ "time": 0.1667, "name": "total_glow_a/total_glow_a_05" },
+					{ "time": 0.2, "name": "total_glow_a/total_glow_a_06" },
+					{ "time": 0.2333, "name": "total_glow_a/total_glow_a_07" },
+					{ "time": 0.2667, "name": "total_glow_a/total_glow_a_08" },
+					{ "time": 0.3, "name": "total_glow_a/total_glow_a_09" },
+					{ "time": 0.3333, "name": "total_glow_a/total_glow_a_10" },
+					{ "time": 0.3667, "name": "total_glow_a/total_glow_a_11" },
+					{ "time": 0.4, "name": "total_glow_a/total_glow_a_12" },
+					{ "time": 0.4333, "name": "total_glow_a/total_glow_a_13" },
+					{ "time": 0.4667, "name": "total_glow_a/total_glow_a_14" },
+					{ "time": 0.5, "name": "total_glow_a/total_glow_a_15" },
+					{ "time": 0.5333, "name": "total_glow_a/total_glow_a_16" },
+					{ "time": 0.5667, "name": "total_glow_a/total_glow_a_17" },
+					{ "time": 0.6, "name": "total_glow_a/total_glow_a_18" },
+					{ "time": 0.6333, "name": "total_glow_a/total_glow_a_19" },
+					{ "time": 0.6667, "name": "total_glow_a/total_glow_a_20" },
+					{ "time": 0.7, "name": "total_glow_a/total_glow_a_21" },
+					{ "time": 0.7333, "name": "total_glow_a/total_glow_a_22" },
+					{ "time": 0.7667, "name": "total_glow_a/total_glow_a_23" },
+					{ "time": 0.8, "name": "total_glow_a/total_glow_a_24" },
+					{ "time": 0.8333, "name": "total_glow_a/total_glow_a_25" },
+					{ "time": 0.8667, "name": "total_glow_a/total_glow_a_26" },
+					{ "time": 0.9, "name": "total_glow_a/total_glow_a_27" },
+					{ "time": 0.9333, "name": "total_glow_a/total_glow_a_28" },
+					{ "time": 0.9667, "name": "total_glow_a/total_glow_a_29" },
+					{ "time": 1, "name": "total_glow_a/total_glow_a_30" },
+					{ "time": 1.0333, "name": "total_glow_a/total_glow_a_31" },
+					{ "time": 1.0667, "name": "total_glow_a/total_glow_a_32" },
+					{ "time": 1.1, "name": "total_glow_a/total_glow_a_32" }
+				]
+			}
+		}
+	}
+}
+}

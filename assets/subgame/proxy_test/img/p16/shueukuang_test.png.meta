@@ -1,0 +1,74 @@
+{
+  "ver": "1.0.22",
+  "importer": "image",
+  "imported": true,
+  "uuid": "b0383df5-1102-409e-8e49-fa45cfaead6a",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "b0383df5-1102-409e-8e49-fa45cfaead6a@6c48a",
+      "displayName": "shueukuang_test",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "wrapModeT": "clamp-to-edge",
+        "wrapModeS": "clamp-to-edge",
+        "mipfilter": "none",
+        "imageUuidOrDatabaseUri": "b0383df5-1102-409e-8e49-fa45cfaead6a",
+        "anisotropy": 0,
+        "isUuid": true
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "b0383df5-1102-409e-8e49-fa45cfaead6a@f9941",
+      "displayName": "shueukuang_test",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 51,
+        "height": 36,
+        "rawWidth": 51,
+        "rawHeight": 36,
+        "borderTop": 12,
+        "borderBottom": 15,
+        "borderLeft": 17,
+        "borderRight": 13,
+        "imageUuidOrDatabaseUri": "b0383df5-1102-409e-8e49-fa45cfaead6a@6c48a",
+        "packable": true,
+        "isUuid": true,
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "hasAlpha": true,
+    "redirect": "b0383df5-1102-409e-8e49-fa45cfaead6a@f9941"
+  }
+}

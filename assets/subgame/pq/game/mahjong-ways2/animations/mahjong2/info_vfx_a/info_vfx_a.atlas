@@ -1,0 +1,165 @@
+
+info_vfx_a.png
+size: 1688,1688
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+info_vfx_a_00
+  rotate: false
+  xy: 2, 564
+  size: 560, 560
+  orig: 560, 560
+  offset: 0, 0
+  index: -1
+info_vfx_a_01
+  rotate: false
+  xy: 564, 1126
+  size: 560, 560
+  orig: 560, 560
+  offset: 0, 0
+  index: -1
+info_vfx_a_02
+  rotate: false
+  xy: 2, 2
+  size: 560, 560
+  orig: 560, 560
+  offset: 0, 0
+  index: -1
+info_vfx_a_03
+  rotate: false
+  xy: 564, 564
+  size: 560, 560
+  orig: 560, 560
+  offset: 0, 0
+  index: -1
+info_vfx_a_04
+  rotate: false
+  xy: 1126, 1126
+  size: 560, 560
+  orig: 560, 560
+  offset: 0, 0
+  index: -1
+info_vfx_a_05
+  rotate: false
+  xy: 564, 2
+  size: 560, 560
+  orig: 560, 560
+  offset: 0, 0
+  index: -1
+info_vfx_a_06
+  rotate: false
+  xy: 1126, 564
+  size: 560, 560
+  orig: 560, 560
+  offset: 0, 0
+  index: -1
+info_vfx_a_07
+  rotate: false
+  xy: 1126, 2
+  size: 560, 560
+  orig: 560, 560
+  offset: 0, 0
+  index: -1
+info_vfx_a_20
+  rotate: false
+  xy: 2, 1126
+  size: 560, 560
+  orig: 560, 560
+  offset: 0, 0
+  index: -1
+
+info_vfx_a2.png
+size: 1688,1688
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+info_vfx_a_08
+  rotate: false
+  xy: 2, 1126
+  size: 560, 560
+  orig: 560, 560
+  offset: 0, 0
+  index: -1
+info_vfx_a_09
+  rotate: false
+  xy: 2, 564
+  size: 560, 560
+  orig: 560, 560
+  offset: 0, 0
+  index: -1
+info_vfx_a_10
+  rotate: false
+  xy: 564, 1126
+  size: 560, 560
+  orig: 560, 560
+  offset: 0, 0
+  index: -1
+info_vfx_a_11
+  rotate: false
+  xy: 2, 2
+  size: 560, 560
+  orig: 560, 560
+  offset: 0, 0
+  index: -1
+info_vfx_a_12
+  rotate: false
+  xy: 564, 564
+  size: 560, 560
+  orig: 560, 560
+  offset: 0, 0
+  index: -1
+info_vfx_a_13
+  rotate: false
+  xy: 1126, 1126
+  size: 560, 560
+  orig: 560, 560
+  offset: 0, 0
+  index: -1
+info_vfx_a_14
+  rotate: false
+  xy: 564, 2
+  size: 560, 560
+  orig: 560, 560
+  offset: 0, 0
+  index: -1
+info_vfx_a_15
+  rotate: false
+  xy: 1126, 564
+  size: 560, 560
+  orig: 560, 560
+  offset: 0, 0
+  index: -1
+info_vfx_a_16
+  rotate: false
+  xy: 1126, 2
+  size: 560, 560
+  orig: 560, 560
+  offset: 0, 0
+  index: -1
+
+info_vfx_a3.png
+size: 1688,564
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+info_vfx_a_17
+  rotate: false
+  xy: 2, 2
+  size: 560, 560
+  orig: 560, 560
+  offset: 0, 0
+  index: -1
+info_vfx_a_18
+  rotate: false
+  xy: 564, 2
+  size: 560, 560
+  orig: 560, 560
+  offset: 0, 0
+  index: -1
+info_vfx_a_19
+  rotate: false
+  xy: 1126, 2
+  size: 560, 560
+  orig: 560, 560
+  offset: 0, 0
+  index: -1

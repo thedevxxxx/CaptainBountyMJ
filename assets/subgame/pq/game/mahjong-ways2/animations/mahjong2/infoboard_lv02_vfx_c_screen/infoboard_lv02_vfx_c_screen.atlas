@@ -1,0 +1,104 @@
+
+infoboard_lv02_vfx_c_screen.png
+size: 1790,1517
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+infoboard_lv02_vfx_c_screen_00
+  rotate: false
+  xy: 2, 911
+  size: 594, 301
+  orig: 594, 301
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_c_screen_01
+  rotate: false
+  xy: 598, 1214
+  size: 594, 301
+  orig: 594, 301
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_c_screen_02
+  rotate: false
+  xy: 2, 608
+  size: 594, 301
+  orig: 594, 301
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_c_screen_03
+  rotate: false
+  xy: 598, 911
+  size: 594, 301
+  orig: 594, 301
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_c_screen_04
+  rotate: false
+  xy: 1194, 1214
+  size: 594, 301
+  orig: 594, 301
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_c_screen_05
+  rotate: false
+  xy: 2, 305
+  size: 594, 301
+  orig: 594, 301
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_c_screen_06
+  rotate: false
+  xy: 598, 608
+  size: 594, 301
+  orig: 594, 301
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_c_screen_07
+  rotate: false
+  xy: 1194, 911
+  size: 594, 301
+  orig: 594, 301
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_c_screen_08
+  rotate: false
+  xy: 2, 2
+  size: 594, 301
+  orig: 594, 301
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_c_screen_09
+  rotate: false
+  xy: 598, 305
+  size: 594, 301
+  orig: 594, 301
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_c_screen_10
+  rotate: false
+  xy: 1194, 608
+  size: 594, 301
+  orig: 594, 301
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_c_screen_11
+  rotate: false
+  xy: 598, 2
+  size: 594, 301
+  orig: 594, 301
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_c_screen_12
+  rotate: false
+  xy: 1194, 305
+  size: 594, 301
+  orig: 594, 301
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_c_screen_13
+  rotate: false
+  xy: 2, 1214
+  size: 594, 301
+  orig: 594, 301
+  offset: 0, 0
+  index: -1

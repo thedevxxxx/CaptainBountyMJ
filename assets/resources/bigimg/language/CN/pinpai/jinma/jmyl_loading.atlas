@@ -1,0 +1,111 @@
+
+jmyl_loading.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c6
+  rotate: false
+  xy: 1, 491
+  size: 40, 17
+  orig: 40, 17
+  offset: 0, 0
+  index: -1
+c1
+  rotate: false
+  xy: 268, 391
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: -1
+图层-6
+  rotate: false
+  xy: 930, 1
+  size: 91, 103
+  orig: 91, 103
+  offset: 0, 0
+  index: -1
+图层-5
+  rotate: false
+  xy: 1, 288
+  size: 265, 201
+  orig: 265, 201
+  offset: 0, 0
+  index: -1
+图层-1
+  rotate: false
+  xy: 1, 1
+  size: 671, 150
+  orig: 671, 150
+  offset: 0, 0
+  index: -1
+组-19
+  rotate: false
+  xy: 1, 153
+  size: 533, 133
+  orig: 533, 133
+  offset: 0, 0
+  index: -1
+w1
+  rotate: false
+  xy: 268, 288
+  size: 106, 101
+  orig: 106, 101
+  offset: 0, 0
+  index: -1
+w2
+  rotate: false
+  xy: 930, 106
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+w3
+  rotate: false
+  xy: 376, 288
+  size: 103, 101
+  orig: 103, 101
+  offset: 0, 0
+  index: -1
+w4
+  rotate: false
+  xy: 536, 153
+  size: 103, 105
+  orig: 103, 105
+  offset: 0, 0
+  index: -1
+图层-8
+  rotate: false
+  xy: 674, 1
+  size: 254, 254
+  orig: 254, 254
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 481, 339
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+c3
+  rotate: false
+  xy: 481, 288
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+c5
+  rotate: false
+  xy: 930, 208
+  size: 62, 44
+  orig: 62, 44
+  offset: 0, 0
+  index: -1
+c4
+  rotate: false
+  xy: 332, 391
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1

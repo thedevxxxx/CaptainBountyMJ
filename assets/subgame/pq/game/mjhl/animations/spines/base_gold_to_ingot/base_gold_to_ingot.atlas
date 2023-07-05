@@ -1,0 +1,139 @@
+
+base_gold_to_ingot.png
+size: 978,539
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base_gold_to_ingot/base_gold_to_ingot_00
+  rotate: true
+  xy: 751, 376
+  size: 161, 189
+  orig: 717, 717
+  offset: 279, 274
+  index: -1
+base_gold_to_ingot/base_gold_to_ingot_01
+  rotate: false
+  xy: 156, 164
+  size: 166, 185
+  orig: 717, 717
+  offset: 275, 278
+  index: -1
+base_gold_to_ingot/base_gold_to_ingot_02
+  rotate: false
+  xy: 156, 351
+  size: 167, 186
+  orig: 717, 717
+  offset: 268, 280
+  index: -1
+base_gold_to_ingot/base_gold_to_ingot_03
+  rotate: true
+  xy: 314, 8
+  size: 112, 182
+  orig: 717, 717
+  offset: 303, 283
+  index: -1
+base_gold_to_ingot/base_gold_to_ingot_04
+  rotate: true
+  xy: 689, 111
+  size: 148, 172
+  orig: 717, 717
+  offset: 294, 289
+  index: -1
+base_gold_to_ingot/base_gold_to_ingot_05
+  rotate: true
+  xy: 324, 122
+  size: 150, 184
+  orig: 717, 717
+  offset: 279, 280
+  index: -1
+base_gold_to_ingot/base_gold_to_ingot_06
+  rotate: true
+  xy: 723, 261
+  size: 113, 187
+  orig: 717, 717
+  offset: 298, 280
+  index: -1
+base_gold_to_ingot/base_gold_to_ingot_07
+  rotate: true
+  xy: 510, 104
+  size: 161, 177
+  orig: 717, 717
+  offset: 286, 285
+  index: -1
+base_gold_to_ingot/base_gold_to_ingot_08
+  rotate: false
+  xy: 2, 301
+  size: 152, 236
+  orig: 717, 717
+  offset: 281, 253
+  index: -1
+base_gold_to_ingot/base_gold_to_ingot_09
+  rotate: false
+  xy: 2, 87
+  size: 144, 212
+  orig: 717, 717
+  offset: 282, 267
+  index: -1
+base_gold_to_ingot/base_gold_to_ingot_10
+  rotate: false
+  xy: 545, 390
+  size: 204, 147
+  orig: 717, 717
+  offset: 242, 283
+  index: -1
+base_gold_to_ingot/base_gold_to_ingot_11
+  rotate: false
+  xy: 325, 403
+  size: 218, 134
+  orig: 717, 717
+  offset: 244, 279
+  index: -1
+base_gold_to_ingot/base_gold_to_ingot_12
+  rotate: false
+  xy: 325, 274
+  size: 206, 127
+  orig: 717, 717
+  offset: 257, 274
+  index: -1
+base_gold_to_ingot/base_gold_to_ingot_13
+  rotate: false
+  xy: 533, 267
+  size: 188, 121
+  orig: 717, 717
+  offset: 263, 274
+  index: -1
+base_gold_to_ingot/base_gold_to_ingot_14
+  rotate: false
+  xy: 148, 45
+  size: 164, 117
+  orig: 717, 717
+  offset: 276, 275
+  index: -1
+base_gold_to_ingot/base_gold_to_ingot_15
+  rotate: true
+  xy: 863, 101
+  size: 158, 113
+  orig: 717, 717
+  offset: 280, 278
+  index: -1
+base_gold_to_ingot/base_gold_to_ingot_16
+  rotate: false
+  xy: 498, 2
+  size: 143, 100
+  orig: 717, 717
+  offset: 287, 285
+  index: -1
+base_gold_to_ingot/base_gold_to_ingot_17
+  rotate: false
+  xy: 689, 27
+  size: 136, 82
+  orig: 717, 717
+  offset: 291, 292
+  index: -1
+base_gold_to_ingot/base_gold_to_ingot_18
+  rotate: false
+  xy: 2, 3
+  size: 136, 82
+  orig: 717, 717
+  offset: 291, 292
+  index: -1

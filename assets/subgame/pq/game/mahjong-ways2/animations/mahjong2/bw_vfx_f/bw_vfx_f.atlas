@@ -1,0 +1,159 @@
+
+bw_vfx_f.png
+size: 1742,1852
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_vfx_f_01
+  rotate: false
+  xy: 2, 350
+  size: 346, 749
+  orig: 346, 749
+  offset: 0, 0
+  index: -1
+bw_vfx_f_02
+  rotate: false
+  xy: 350, 1101
+  size: 346, 749
+  orig: 346, 749
+  offset: 0, 0
+  index: -1
+bw_vfx_f_03
+  rotate: false
+  xy: 350, 350
+  size: 346, 749
+  orig: 346, 749
+  offset: 0, 0
+  index: -1
+bw_vfx_f_04
+  rotate: false
+  xy: 698, 1101
+  size: 346, 749
+  orig: 346, 749
+  offset: 0, 0
+  index: -1
+bw_vfx_f_05
+  rotate: false
+  xy: 698, 350
+  size: 346, 749
+  orig: 346, 749
+  offset: 0, 0
+  index: -1
+bw_vfx_f_06
+  rotate: true
+  xy: 2, 2
+  size: 346, 749
+  orig: 346, 749
+  offset: 0, 0
+  index: -1
+bw_vfx_f_07
+  rotate: false
+  xy: 1046, 1101
+  size: 346, 749
+  orig: 346, 749
+  offset: 0, 0
+  index: -1
+bw_vfx_f_08
+  rotate: false
+  xy: 1046, 350
+  size: 346, 749
+  orig: 346, 749
+  offset: 0, 0
+  index: -1
+bw_vfx_f_09
+  rotate: false
+  xy: 1394, 1101
+  size: 346, 749
+  orig: 346, 749
+  offset: 0, 0
+  index: -1
+bw_vfx_f_10
+  rotate: false
+  xy: 1394, 350
+  size: 346, 749
+  orig: 346, 749
+  offset: 0, 0
+  index: -1
+bw_vfx_f_11
+  rotate: true
+  xy: 753, 2
+  size: 346, 749
+  orig: 346, 749
+  offset: 0, 0
+  index: -1
+bw_vfx_f_21
+  rotate: false
+  xy: 2, 1101
+  size: 346, 749
+  orig: 346, 749
+  offset: 0, 0
+  index: -1
+
+bw_vfx_f2.png
+size: 1852,1394
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_vfx_f_12
+  rotate: true
+  xy: 2, 1046
+  size: 346, 749
+  orig: 346, 749
+  offset: 0, 0
+  index: -1
+bw_vfx_f_13
+  rotate: true
+  xy: 753, 1046
+  size: 346, 749
+  orig: 346, 749
+  offset: 0, 0
+  index: -1
+bw_vfx_f_14
+  rotate: true
+  xy: 2, 698
+  size: 346, 749
+  orig: 346, 749
+  offset: 0, 0
+  index: -1
+bw_vfx_f_15
+  rotate: true
+  xy: 753, 698
+  size: 346, 749
+  orig: 346, 749
+  offset: 0, 0
+  index: -1
+bw_vfx_f_16
+  rotate: false
+  xy: 1504, 643
+  size: 346, 749
+  orig: 346, 749
+  offset: 0, 0
+  index: -1
+bw_vfx_f_17
+  rotate: true
+  xy: 2, 350
+  size: 346, 749
+  orig: 346, 749
+  offset: 0, 0
+  index: -1
+bw_vfx_f_18
+  rotate: true
+  xy: 753, 350
+  size: 346, 749
+  orig: 346, 749
+  offset: 0, 0
+  index: -1
+bw_vfx_f_19
+  rotate: true
+  xy: 2, 2
+  size: 346, 749
+  orig: 346, 749
+  offset: 0, 0
+  index: -1
+bw_vfx_f_20
+  rotate: true
+  xy: 753, 2
+  size: 346, 749
+  orig: 346, 749
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+ps_vfx_g_screen.png
+size: 901,1961
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ps_vfx_g_screen_00
+  rotate: false
+  xy: 301, 1401
+  size: 298, 278
+  orig: 298, 278
+  offset: 0, 0
+  index: -1
+ps_vfx_g_screen_01
+  rotate: false
+  xy: 301, 1681
+  size: 298, 278
+  orig: 298, 278
+  offset: 0, 0
+  index: -1
+ps_vfx_g_screen_02
+  rotate: false
+  xy: 601, 1
+  size: 298, 278
+  orig: 298, 278
+  offset: 0, 0
+  index: -1
+ps_vfx_g_screen_03
+  rotate: false
+  xy: 1, 841
+  size: 298, 278
+  orig: 298, 278
+  offset: 0, 0
+  index: -1
+ps_vfx_g_screen_04
+  rotate: false
+  xy: 301, 1121
+  size: 298, 278
+  orig: 298, 278
+  offset: 0, 0
+  index: -1
+ps_vfx_g_screen_05
+  rotate: false
+  xy: 1, 281
+  size: 298, 278
+  orig: 298, 278
+  offset: 0, 0
+  index: -1
+ps_vfx_g_screen_06
+  rotate: false
+  xy: 1, 1401
+  size: 298, 278
+  orig: 298, 278
+  offset: 0, 0
+  index: -1
+ps_vfx_g_screen_07
+  rotate: false
+  xy: 1, 561
+  size: 298, 278
+  orig: 298, 278
+  offset: 0, 0
+  index: -1
+ps_vfx_g_screen_08
+  rotate: false
+  xy: 301, 1
+  size: 298, 278
+  orig: 298, 278
+  offset: 0, 0
+  index: -1
+ps_vfx_g_screen_09
+  rotate: false
+  xy: 601, 561
+  size: 298, 278
+  orig: 298, 278
+  offset: 0, 0
+  index: -1
+ps_vfx_g_screen_10
+  rotate: false
+  xy: 1, 1121
+  size: 298, 278
+  orig: 298, 278
+  offset: 0, 0
+  index: -1
+ps_vfx_g_screen_11
+  rotate: false
+  xy: 1, 1
+  size: 298, 278
+  orig: 298, 278
+  offset: 0, 0
+  index: -1
+ps_vfx_g_screen_12
+  rotate: false
+  xy: 301, 841
+  size: 298, 278
+  orig: 298, 278
+  offset: 0, 0
+  index: -1
+ps_vfx_g_screen_13
+  rotate: false
+  xy: 601, 1121
+  size: 298, 278
+  orig: 298, 278
+  offset: 0, 0
+  index: -1
+ps_vfx_g_screen_14
+  rotate: false
+  xy: 301, 281
+  size: 298, 278
+  orig: 298, 278
+  offset: 0, 0
+  index: -1
+ps_vfx_g_screen_15
+  rotate: false
+  xy: 301, 561
+  size: 298, 278
+  orig: 298, 278
+  offset: 0, 0
+  index: -1
+ps_vfx_g_screen_16
+  rotate: false
+  xy: 601, 281
+  size: 298, 278
+  orig: 298, 278
+  offset: 0, 0
+  index: -1
+ps_vfx_g_screen_17
+  rotate: false
+  xy: 1, 1681
+  size: 298, 278
+  orig: 298, 278
+  offset: 0, 0
+  index: -1
+ps_vfx_g_screen_18
+  rotate: false
+  xy: 601, 841
+  size: 298, 278
+  orig: 298, 278
+  offset: 0, 0
+  index: -1

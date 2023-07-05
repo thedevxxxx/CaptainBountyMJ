@@ -1,0 +1,62 @@
+
+fast_vfx_a.png
+size: 802,576
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fast_vfx_a_05
+  rotate: false
+  xy: 102, 2
+  size: 98, 572
+  orig: 199, 616
+  offset: 23, 21
+  index: -1
+fast_vfx_a_06
+  rotate: false
+  xy: 202, 2
+  size: 98, 572
+  orig: 199, 616
+  offset: 23, 21
+  index: -1
+fast_vfx_a_07
+  rotate: false
+  xy: 302, 2
+  size: 98, 572
+  orig: 199, 616
+  offset: 23, 21
+  index: -1
+fast_vfx_a_08
+  rotate: false
+  xy: 402, 2
+  size: 98, 572
+  orig: 199, 616
+  offset: 23, 21
+  index: -1
+fast_vfx_a_09
+  rotate: false
+  xy: 502, 2
+  size: 98, 572
+  orig: 199, 616
+  offset: 23, 21
+  index: -1
+fast_vfx_a_10
+  rotate: false
+  xy: 602, 2
+  size: 98, 572
+  orig: 199, 616
+  offset: 23, 20
+  index: -1
+fast_vfx_a_11
+  rotate: false
+  xy: 702, 2
+  size: 98, 572
+  orig: 199, 616
+  offset: 23, 20
+  index: -1
+fast_vfx_a_12
+  rotate: false
+  xy: 2, 2
+  size: 98, 572
+  orig: 199, 616
+  offset: 23, 21
+  index: -1

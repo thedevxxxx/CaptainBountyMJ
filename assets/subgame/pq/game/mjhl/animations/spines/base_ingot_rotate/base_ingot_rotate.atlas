@@ -1,0 +1,62 @@
+
+base_ingot_rotate.png
+size: 506,174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base_ingot_rotate/base_ingot_rotate_00
+  rotate: false
+  xy: 2, 90
+  size: 136, 82
+  orig: 717, 717
+  offset: 291, 292
+  index: -1
+base_ingot_rotate/base_ingot_rotate_01
+  rotate: false
+  xy: 2, 6
+  size: 136, 82
+  orig: 717, 717
+  offset: 292, 292
+  index: -1
+base_ingot_rotate/base_ingot_rotate_02
+  rotate: false
+  xy: 140, 90
+  size: 134, 82
+  orig: 717, 717
+  offset: 294, 292
+  index: -1
+base_ingot_rotate/base_ingot_rotate_03
+  rotate: false
+  xy: 274, 5
+  size: 124, 83
+  orig: 717, 717
+  offset: 301, 292
+  index: -1
+base_ingot_rotate/base_ingot_rotate_04
+  rotate: false
+  xy: 400, 2
+  size: 100, 84
+  orig: 717, 717
+  offset: 314, 292
+  index: -1
+base_ingot_rotate/base_ingot_rotate_05
+  rotate: false
+  xy: 405, 88
+  size: 99, 84
+  orig: 717, 717
+  offset: 317, 292
+  index: -1
+base_ingot_rotate/base_ingot_rotate_06
+  rotate: false
+  xy: 276, 90
+  size: 127, 82
+  orig: 717, 717
+  offset: 302, 293
+  index: -1
+base_ingot_rotate/base_ingot_rotate_07
+  rotate: false
+  xy: 140, 6
+  size: 132, 82
+  orig: 717, 717
+  offset: 292, 293
+  index: -1

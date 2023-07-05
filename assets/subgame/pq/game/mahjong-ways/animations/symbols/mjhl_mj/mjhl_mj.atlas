@@ -1,0 +1,62 @@
+
+mjhl_mj.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mjhl_mj1
+  rotate: false
+  xy: 330, 1
+  size: 158, 187
+  orig: 166, 188
+  offset: 4, 0
+  index: -1
+mjhl_mj5
+  rotate: false
+  xy: 168, 191
+  size: 163, 188
+  orig: 166, 188
+  offset: 2, 0
+  index: -1
+mjhl_mj7
+  rotate: false
+  xy: 490, 1
+  size: 77, 182
+  orig: 166, 188
+  offset: 45, 0
+  index: -1
+mjhl_mj4
+  rotate: false
+  xy: 1, 1
+  size: 166, 188
+  orig: 166, 188
+  offset: 0, 0
+  index: -1
+mjhl_mj3
+  rotate: false
+  xy: 1, 191
+  size: 165, 188
+  orig: 166, 188
+  offset: 1, 0
+  index: -1
+mjhl_mj2
+  rotate: false
+  xy: 169, 1
+  size: 159, 187
+  orig: 166, 188
+  offset: 4, 0
+  index: -1
+mjhl_mj8
+  rotate: false
+  xy: 463, 190
+  size: 112, 181
+  orig: 166, 188
+  offset: 27, 0
+  index: -1
+mjhl_mj6
+  rotate: false
+  xy: 333, 190
+  size: 128, 187
+  orig: 166, 188
+  offset: 19, 0
+  index: -1

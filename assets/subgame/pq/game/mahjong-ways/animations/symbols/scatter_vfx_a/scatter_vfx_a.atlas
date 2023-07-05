@@ -1,0 +1,62 @@
+
+scatter_vfx_a.jpg
+size: 1018,149
+format: RGB888
+filter: Linear,Linear
+repeat: none
+scatter_vfx_a/scatter_vfx_a_04
+  rotate: false
+  xy: 129, 2
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+scatter_vfx_a/scatter_vfx_a_05
+  rotate: false
+  xy: 256, 2
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+scatter_vfx_a/scatter_vfx_a_06
+  rotate: false
+  xy: 383, 2
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+scatter_vfx_a/scatter_vfx_a_07
+  rotate: false
+  xy: 510, 2
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+scatter_vfx_a/scatter_vfx_a_08
+  rotate: false
+  xy: 637, 2
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+scatter_vfx_a/scatter_vfx_a_09
+  rotate: false
+  xy: 764, 2
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+scatter_vfx_a/scatter_vfx_a_10
+  rotate: false
+  xy: 891, 2
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+scatter_vfx_a/scatter_vfx_a_11
+  rotate: false
+  xy: 2, 2
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+bw_particle_b.png
+size: 253,319
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_particle_b/bw_particle_b_00
+  rotate: false
+  xy: 126, 4
+  size: 123, 98
+  orig: 208, 208
+  offset: 42, 54
+  index: -1
+bw_particle_b/bw_particle_b_01
+  rotate: false
+  xy: 2, 105
+  size: 122, 103
+  orig: 208, 208
+  offset: 41, 54
+  index: -1
+bw_particle_b/bw_particle_b_02
+  rotate: false
+  xy: 128, 104
+  size: 122, 105
+  orig: 208, 208
+  offset: 43, 47
+  index: -1
+bw_particle_b/bw_particle_b_03
+  rotate: false
+  xy: 2, 2
+  size: 122, 101
+  orig: 208, 208
+  offset: 48, 52
+  index: -1
+bw_particle_b/bw_particle_b_04
+  rotate: false
+  xy: 128, 211
+  size: 123, 106
+  orig: 208, 208
+  offset: 50, 47
+  index: -1
+bw_particle_b/bw_particle_b_05
+  rotate: false
+  xy: 2, 210
+  size: 124, 107
+  orig: 208, 208
+  offset: 48, 53
+  index: -1

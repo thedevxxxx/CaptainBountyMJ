@@ -1,0 +1,132 @@
+
+infoboard_vfx_e_add_spawn.png
+size: 1766,186
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+infoboard_vfx_e_add_spawn_01
+  rotate: false
+  xy: 2, 2
+  size: 194, 90
+  orig: 194, 90
+  offset: 0, 0
+  index: -1
+infoboard_vfx_e_add_spawn_02
+  rotate: false
+  xy: 198, 94
+  size: 194, 90
+  orig: 194, 90
+  offset: 0, 0
+  index: -1
+infoboard_vfx_e_add_spawn_03
+  rotate: false
+  xy: 198, 2
+  size: 194, 90
+  orig: 194, 90
+  offset: 0, 0
+  index: -1
+infoboard_vfx_e_add_spawn_04
+  rotate: false
+  xy: 394, 94
+  size: 194, 90
+  orig: 194, 90
+  offset: 0, 0
+  index: -1
+infoboard_vfx_e_add_spawn_05
+  rotate: false
+  xy: 394, 2
+  size: 194, 90
+  orig: 194, 90
+  offset: 0, 0
+  index: -1
+infoboard_vfx_e_add_spawn_06
+  rotate: false
+  xy: 590, 94
+  size: 194, 90
+  orig: 194, 90
+  offset: 0, 0
+  index: -1
+infoboard_vfx_e_add_spawn_07
+  rotate: false
+  xy: 590, 2
+  size: 194, 90
+  orig: 194, 90
+  offset: 0, 0
+  index: -1
+infoboard_vfx_e_add_spawn_08
+  rotate: false
+  xy: 786, 94
+  size: 194, 90
+  orig: 194, 90
+  offset: 0, 0
+  index: -1
+infoboard_vfx_e_add_spawn_09
+  rotate: false
+  xy: 786, 2
+  size: 194, 90
+  orig: 194, 90
+  offset: 0, 0
+  index: -1
+infoboard_vfx_e_add_spawn_10
+  rotate: false
+  xy: 982, 94
+  size: 194, 90
+  orig: 194, 90
+  offset: 0, 0
+  index: -1
+infoboard_vfx_e_add_spawn_11
+  rotate: false
+  xy: 982, 2
+  size: 194, 90
+  orig: 194, 90
+  offset: 0, 0
+  index: -1
+infoboard_vfx_e_add_spawn_12
+  rotate: false
+  xy: 1178, 94
+  size: 194, 90
+  orig: 194, 90
+  offset: 0, 0
+  index: -1
+infoboard_vfx_e_add_spawn_13
+  rotate: false
+  xy: 1178, 2
+  size: 194, 90
+  orig: 194, 90
+  offset: 0, 0
+  index: -1
+infoboard_vfx_e_add_spawn_14
+  rotate: false
+  xy: 1374, 94
+  size: 194, 90
+  orig: 194, 90
+  offset: 0, 0
+  index: -1
+infoboard_vfx_e_add_spawn_15
+  rotate: false
+  xy: 1374, 2
+  size: 194, 90
+  orig: 194, 90
+  offset: 0, 0
+  index: -1
+infoboard_vfx_e_add_spawn_16
+  rotate: false
+  xy: 1570, 94
+  size: 194, 90
+  orig: 194, 90
+  offset: 0, 0
+  index: -1
+infoboard_vfx_e_add_spawn_17
+  rotate: false
+  xy: 1570, 2
+  size: 194, 90
+  orig: 194, 90
+  offset: 0, 0
+  index: -1
+infoboard_vfx_e_add_spawn_18
+  rotate: false
+  xy: 2, 94
+  size: 194, 90
+  orig: 194, 90
+  offset: 0, 0
+  index: -1

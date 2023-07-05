@@ -1,0 +1,51 @@
+{
+"skeleton": { "hash": "9IWwIZDraEEX56PMYufB//ysR3k", "spine": "3.8.99", "x": -70, "y": -70, "width": 140, "height": 140 },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "bw_particle_a/bw_particle_a_00", "bone": "root", "attachment": "bw_particle_a/bw_particle_a_00" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"bw_particle_a/bw_particle_a_00": {
+				"bw_particle_a/bw_particle_a_00": { "width": 140, "height": 140 },
+				"bw_particle_a/bw_particle_a_01": { "width": 140, "height": 140 },
+				"bw_particle_a/bw_particle_a_02": { "width": 140, "height": 140 },
+				"bw_particle_a/bw_particle_a_03": { "width": 140, "height": 140 },
+				"bw_particle_a/bw_particle_a_04": { "width": 140, "height": 140 },
+				"bw_particle_a/bw_particle_a_05": { "width": 140, "height": 140 },
+				"bw_particle_a/bw_particle_a_06": { "width": 140, "height": 140 },
+				"bw_particle_a/bw_particle_a_07": { "width": 140, "height": 140 },
+				"bw_particle_a/bw_particle_a_08": { "width": 140, "height": 140 },
+				"bw_particle_a/bw_particle_a_09": { "width": 140, "height": 140 },
+				"bw_particle_a/bw_particle_a_10": { "width": 140, "height": 140 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"bw_particle_a/bw_particle_a_00": {
+				"attachment": [
+					{ "name": "bw_particle_a/bw_particle_a_00" },
+					{ "time": 0.0333, "name": "bw_particle_a/bw_particle_a_01" },
+					{ "time": 0.0667, "name": "bw_particle_a/bw_particle_a_02" },
+					{ "time": 0.1, "name": "bw_particle_a/bw_particle_a_03" },
+					{ "time": 0.1333, "name": "bw_particle_a/bw_particle_a_04" },
+					{ "time": 0.1667, "name": "bw_particle_a/bw_particle_a_05" },
+					{ "time": 0.2, "name": "bw_particle_a/bw_particle_a_06" },
+					{ "time": 0.2333, "name": "bw_particle_a/bw_particle_a_07" },
+					{ "time": 0.2667, "name": "bw_particle_a/bw_particle_a_08" },
+					{ "time": 0.3, "name": "bw_particle_a/bw_particle_a_09" },
+					{ "time": 0.3333, "name": "bw_particle_a/bw_particle_a_10" },
+					{ "time": 0.3667, "name": "bw_particle_a/bw_particle_a_10" }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,90 @@
+
+YUNYOUgames.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 1, 1
+  size: 286, 220
+  orig: 286, 220
+  offset: 0, 0
+  index: -1
+金币1
+  rotate: false
+  xy: 49, 430
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+金币2
+  rotate: false
+  xy: 49, 445
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+金币3
+  rotate: false
+  xy: 1, 451
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+红包1
+  rotate: false
+  xy: 1, 430
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+红包2
+  rotate: false
+  xy: 28, 430
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+老虎机
+  rotate: false
+  xy: 227, 223
+  size: 176, 173
+  orig: 176, 173
+  offset: 0, 0
+  index: -1
+人物主体
+  rotate: false
+  xy: 1, 223
+  size: 224, 205
+  orig: 224, 205
+  offset: 0, 0
+  index: -1
+头发右
+  rotate: false
+  xy: 289, 1
+  size: 57, 106
+  orig: 57, 106
+  offset: 0, 0
+  index: -1
+左眼闭合
+  rotate: false
+  xy: 18, 468
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+左眼睁开
+  rotate: false
+  xy: 18, 453
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 227, 398
+  size: 176, 49
+  orig: 176, 49
+  offset: 0, 0
+  index: -1

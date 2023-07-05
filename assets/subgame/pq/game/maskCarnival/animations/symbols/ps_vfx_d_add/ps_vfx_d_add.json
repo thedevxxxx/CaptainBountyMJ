@@ -1,0 +1,245 @@
+{
+    "skeleton": {
+        "width": 172,
+        "height": 162,
+        "fps": 24,
+        "hash": " ",
+        "name": "Armature"
+    },
+    "bones": [
+        {
+            "name": "root"
+        }
+    ],
+    "slots": [
+        {
+            "name": "ps_vfx_d_add_00",
+            "bone": "root",
+            "attachment": "ps_vfx_d_add_00",
+            "blend": "additive"
+        },
+        {
+            "name": "ps_vfx_d_add_01",
+            "bone": "root",
+            "attachment": "ps_vfx_d_add_01",
+            "blend": "additive"
+        },
+        {
+            "name": "ps_vfx_d_add_02",
+            "bone": "root",
+            "attachment": "ps_vfx_d_add_02",
+            "blend": "additive"
+        },
+        {
+            "name": "ps_vfx_d_add_03",
+            "bone": "root",
+            "attachment": "ps_vfx_d_add_03",
+            "blend": "additive"
+        },
+        {
+            "name": "ps_vfx_d_add_04",
+            "bone": "root",
+            "attachment": "ps_vfx_d_add_04",
+            "blend": "additive"
+        },
+        {
+            "name": "ps_vfx_d_add_05",
+            "bone": "root",
+            "attachment": "ps_vfx_d_add_05",
+            "blend": "additive"
+        },
+        {
+            "name": "ps_vfx_d_add_06",
+            "bone": "root",
+            "attachment": "ps_vfx_d_add_06",
+            "blend": "additive"
+        }
+    ],
+    "skins": {
+        "default": {
+            "ps_vfx_d_add_02": {
+                "ps_vfx_d_add_02": {
+                    "name": "ps_vfx_d_add_02",
+                    "width": 172,
+                    "height": 162
+                }
+            },
+            "ps_vfx_d_add_03": {
+                "ps_vfx_d_add_03": {
+                    "name": "ps_vfx_d_add_03",
+                    "width": 172,
+                    "height": 162
+                }
+            },
+            "ps_vfx_d_add_06": {
+                "ps_vfx_d_add_06": {
+                    "name": "ps_vfx_d_add_06",
+                    "width": 172,
+                    "height": 162
+                }
+            },
+            "ps_vfx_d_add_05": {
+                "ps_vfx_d_add_05": {
+                    "name": "ps_vfx_d_add_05",
+                    "width": 172,
+                    "height": 162
+                }
+            },
+            "ps_vfx_d_add_04": {
+                "ps_vfx_d_add_04": {
+                    "name": "ps_vfx_d_add_04",
+                    "width": 172,
+                    "height": 162
+                }
+            },
+            "ps_vfx_d_add_00": {
+                "ps_vfx_d_add_00": {
+                    "name": "ps_vfx_d_add_00",
+                    "width": 172,
+                    "height": 162
+                }
+            },
+            "ps_vfx_d_add_01": {
+                "ps_vfx_d_add_01": {
+                    "name": "ps_vfx_d_add_01",
+                    "width": 172,
+                    "height": 162
+                }
+            }
+        }
+    },
+    "animations": {
+        "newAnimation": {
+            "slots": {
+                "ps_vfx_d_add_00": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.0417,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "ps_vfx_d_add_01": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.0417,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.0834,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "ps_vfx_d_add_02": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.0417,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.0834,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.1251,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "ps_vfx_d_add_03": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.0833,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "ps_vfx_d_add_04": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.2084,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "ps_vfx_d_add_05": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.2084,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.2501,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "ps_vfx_d_add_06": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.2083,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.25,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.2917,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

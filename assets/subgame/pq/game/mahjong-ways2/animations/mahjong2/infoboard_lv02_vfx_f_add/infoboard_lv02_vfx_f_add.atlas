@@ -1,0 +1,55 @@
+
+infoboard_lv02_vfx_f_add.png
+size: 618,510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+infoboard_lv02_vfx_f_add_00
+  rotate: true
+  xy: 2, 2
+  size: 506, 86
+  orig: 506, 86
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_f_add_01
+  rotate: true
+  xy: 90, 2
+  size: 506, 86
+  orig: 506, 86
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_f_add_02
+  rotate: true
+  xy: 178, 2
+  size: 506, 86
+  orig: 506, 86
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_f_add_03
+  rotate: true
+  xy: 266, 2
+  size: 506, 86
+  orig: 506, 86
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_f_add_04
+  rotate: true
+  xy: 354, 2
+  size: 506, 86
+  orig: 506, 86
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_f_add_05
+  rotate: true
+  xy: 442, 2
+  size: 506, 86
+  orig: 506, 86
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_f_add_06
+  rotate: true
+  xy: 530, 2
+  size: 506, 86
+  orig: 506, 86
+  offset: 0, 0
+  index: -1

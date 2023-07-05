@@ -1,0 +1,125 @@
+
+mj_light.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mjhl_light_09
+  rotate: false
+  xy: 391, 1
+  size: 128, 143
+  orig: 128, 144
+  offset: 0, 0
+  index: -1
+mjhl_light_08
+  rotate: false
+  xy: 131, 1
+  size: 128, 143
+  orig: 128, 144
+  offset: 0, 0
+  index: -1
+mjhl_light_14
+  rotate: false
+  xy: 391, 291
+  size: 128, 143
+  orig: 128, 144
+  offset: 0, 0
+  index: -1
+mjhl_light_06
+  rotate: false
+  xy: 1, 146
+  size: 128, 143
+  orig: 128, 144
+  offset: 0, 0
+  index: -1
+mjhl_light_05
+  rotate: false
+  xy: 261, 1
+  size: 128, 143
+  orig: 128, 144
+  offset: 0, 0
+  index: -1
+mjhl_light_11
+  rotate: false
+  xy: 1, 291
+  size: 128, 143
+  orig: 128, 144
+  offset: 0, 0
+  index: -1
+mjhl_light_12
+  rotate: false
+  xy: 391, 146
+  size: 128, 143
+  orig: 128, 144
+  offset: 0, 0
+  index: -1
+mjhl_light_07
+  rotate: false
+  xy: 521, 146
+  size: 128, 143
+  orig: 128, 144
+  offset: 0, 0
+  index: -1
+mjhl_light_02
+  rotate: false
+  xy: 651, 1
+  size: 128, 143
+  orig: 128, 144
+  offset: 0, 0
+  index: -1
+mjhl_light_16
+  rotate: false
+  xy: 131, 146
+  size: 128, 143
+  orig: 128, 144
+  offset: 0, 0
+  index: -1
+mjhl_light_13
+  rotate: false
+  xy: 521, 291
+  size: 128, 143
+  orig: 128, 144
+  offset: 0, 0
+  index: -1
+mjhl_light_10
+  rotate: false
+  xy: 261, 146
+  size: 128, 143
+  orig: 128, 144
+  offset: 0, 0
+  index: -1
+mjhl_light_03
+  rotate: false
+  xy: 521, 1
+  size: 128, 143
+  orig: 128, 144
+  offset: 0, 0
+  index: -1
+mjhl_light_15
+  rotate: false
+  xy: 131, 291
+  size: 128, 143
+  orig: 128, 144
+  offset: 0, 0
+  index: -1
+mjhl_light_17
+  rotate: false
+  xy: 261, 291
+  size: 128, 143
+  orig: 128, 144
+  offset: 0, 0
+  index: -1
+mjhl_light_04
+  rotate: false
+  xy: 781, 1
+  size: 128, 142
+  orig: 128, 144
+  offset: 0, 0
+  index: -1
+mjhl_light_01
+  rotate: false
+  xy: 1, 1
+  size: 128, 143
+  orig: 128, 144
+  offset: 0, 0
+  index: -1

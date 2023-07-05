@@ -1,0 +1,132 @@
+
+ps_vfx_b_add.png
+size: 977,1116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ps_vfx_b_add_00
+  rotate: false
+  xy: 1, 670
+  size: 242, 221
+  orig: 242, 221
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_01
+  rotate: false
+  xy: 733, 670
+  size: 242, 221
+  orig: 242, 221
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_02
+  rotate: false
+  xy: 489, 1
+  size: 242, 221
+  orig: 242, 221
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_03
+  rotate: false
+  xy: 245, 1
+  size: 242, 221
+  orig: 242, 221
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_04
+  rotate: false
+  xy: 1, 224
+  size: 242, 221
+  orig: 242, 221
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_05
+  rotate: false
+  xy: 733, 224
+  size: 242, 221
+  orig: 242, 221
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_06
+  rotate: false
+  xy: 489, 224
+  size: 242, 221
+  orig: 242, 221
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_07
+  rotate: false
+  xy: 1, 1
+  size: 242, 221
+  orig: 242, 221
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_08
+  rotate: false
+  xy: 489, 447
+  size: 242, 221
+  orig: 242, 221
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_09
+  rotate: false
+  xy: 245, 447
+  size: 242, 221
+  orig: 242, 221
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_10
+  rotate: false
+  xy: 245, 670
+  size: 242, 221
+  orig: 242, 221
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_11
+  rotate: false
+  xy: 733, 1
+  size: 242, 221
+  orig: 242, 221
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_12
+  rotate: false
+  xy: 489, 670
+  size: 242, 221
+  orig: 242, 221
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_13
+  rotate: false
+  xy: 1, 893
+  size: 242, 221
+  orig: 242, 221
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_14
+  rotate: false
+  xy: 245, 893
+  size: 242, 221
+  orig: 242, 221
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_15
+  rotate: false
+  xy: 245, 224
+  size: 242, 221
+  orig: 242, 221
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_16
+  rotate: false
+  xy: 733, 447
+  size: 242, 221
+  orig: 242, 221
+  offset: 0, 0
+  index: -1
+ps_vfx_b_add_17
+  rotate: false
+  xy: 1, 447
+  size: 242, 221
+  orig: 242, 221
+  offset: 0, 0
+  index: -1

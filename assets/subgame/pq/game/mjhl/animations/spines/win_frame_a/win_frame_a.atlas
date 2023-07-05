@@ -1,0 +1,125 @@
+
+win_frame_a.png
+size: 845,386
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+win_frame_a/win_frame_a_00
+  rotate: true
+  xy: 145, 258
+  size: 126, 141
+  orig: 150, 150
+  offset: 15, 9
+  index: -1
+win_frame_a/win_frame_a_01
+  rotate: true
+  xy: 288, 258
+  size: 126, 141
+  orig: 150, 150
+  offset: 15, 9
+  index: -1
+win_frame_a/win_frame_a_02
+  rotate: true
+  xy: 431, 258
+  size: 126, 141
+  orig: 150, 150
+  offset: 15, 9
+  index: -1
+win_frame_a/win_frame_a_03
+  rotate: true
+  xy: 574, 258
+  size: 126, 141
+  orig: 150, 150
+  offset: 15, 9
+  index: -1
+win_frame_a/win_frame_a_04
+  rotate: false
+  xy: 717, 243
+  size: 126, 141
+  orig: 150, 150
+  offset: 15, 9
+  index: -1
+win_frame_a/win_frame_a_05
+  rotate: true
+  xy: 2, 130
+  size: 126, 141
+  orig: 150, 150
+  offset: 15, 9
+  index: -1
+win_frame_a/win_frame_a_06
+  rotate: true
+  xy: 145, 130
+  size: 126, 141
+  orig: 150, 150
+  offset: 15, 9
+  index: -1
+win_frame_a/win_frame_a_07
+  rotate: true
+  xy: 288, 130
+  size: 126, 141
+  orig: 150, 150
+  offset: 15, 9
+  index: -1
+win_frame_a/win_frame_a_08
+  rotate: true
+  xy: 431, 130
+  size: 126, 141
+  orig: 150, 150
+  offset: 15, 9
+  index: -1
+win_frame_a/win_frame_a_09
+  rotate: true
+  xy: 574, 130
+  size: 126, 141
+  orig: 150, 150
+  offset: 15, 9
+  index: -1
+win_frame_a/win_frame_a_10
+  rotate: false
+  xy: 717, 100
+  size: 126, 141
+  orig: 150, 150
+  offset: 15, 9
+  index: -1
+win_frame_a/win_frame_a_11
+  rotate: true
+  xy: 2, 2
+  size: 126, 141
+  orig: 150, 150
+  offset: 15, 9
+  index: -1
+win_frame_a/win_frame_a_12
+  rotate: true
+  xy: 145, 2
+  size: 126, 141
+  orig: 150, 150
+  offset: 15, 9
+  index: -1
+win_frame_a/win_frame_a_13
+  rotate: true
+  xy: 288, 2
+  size: 126, 141
+  orig: 150, 150
+  offset: 15, 9
+  index: -1
+win_frame_a/win_frame_a_14
+  rotate: true
+  xy: 431, 2
+  size: 126, 141
+  orig: 150, 150
+  offset: 15, 9
+  index: -1
+win_frame_a/win_frame_a_15
+  rotate: true
+  xy: 574, 2
+  size: 126, 141
+  orig: 150, 150
+  offset: 15, 9
+  index: -1
+win_frame_a/win_frame_a_16
+  rotate: true
+  xy: 2, 258
+  size: 126, 141
+  orig: 150, 150
+  offset: 15, 9
+  index: -1

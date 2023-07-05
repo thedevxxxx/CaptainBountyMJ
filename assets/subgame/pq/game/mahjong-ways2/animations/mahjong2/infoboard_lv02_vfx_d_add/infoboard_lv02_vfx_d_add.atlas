@@ -1,0 +1,125 @@
+
+infoboard_lv02_vfx_d_add.png
+size: 1939,1728
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+infoboard_lv02_vfx_d_add_00
+  rotate: true
+  xy: 507, 1223
+  size: 503, 356
+  orig: 503, 356
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_d_add_01
+  rotate: true
+  xy: 2, 865
+  size: 503, 356
+  orig: 503, 356
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_d_add_02
+  rotate: false
+  xy: 360, 865
+  size: 503, 356
+  orig: 503, 356
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_d_add_03
+  rotate: true
+  xy: 865, 1223
+  size: 503, 356
+  orig: 503, 356
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_d_add_04
+  rotate: true
+  xy: 865, 718
+  size: 503, 356
+  orig: 503, 356
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_d_add_05
+  rotate: true
+  xy: 2, 360
+  size: 503, 356
+  orig: 503, 356
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_d_add_06
+  rotate: true
+  xy: 360, 360
+  size: 503, 356
+  orig: 503, 356
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_d_add_07
+  rotate: false
+  xy: 718, 360
+  size: 503, 356
+  orig: 503, 356
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_d_add_08
+  rotate: true
+  xy: 1223, 1223
+  size: 503, 356
+  orig: 503, 356
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_d_add_09
+  rotate: true
+  xy: 1223, 718
+  size: 503, 356
+  orig: 503, 356
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_d_add_10
+  rotate: true
+  xy: 1223, 213
+  size: 503, 356
+  orig: 503, 356
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_d_add_11
+  rotate: false
+  xy: 2, 2
+  size: 503, 356
+  orig: 503, 356
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_d_add_12
+  rotate: false
+  xy: 507, 2
+  size: 503, 356
+  orig: 503, 356
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_d_add_13
+  rotate: true
+  xy: 1581, 1223
+  size: 503, 356
+  orig: 503, 356
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_d_add_14
+  rotate: true
+  xy: 1581, 718
+  size: 503, 356
+  orig: 503, 356
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_d_add_15
+  rotate: true
+  xy: 1581, 213
+  size: 503, 356
+  orig: 503, 356
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_d_add_16
+  rotate: false
+  xy: 2, 1370
+  size: 503, 356
+  orig: 503, 356
+  offset: 0, 0
+  index: -1

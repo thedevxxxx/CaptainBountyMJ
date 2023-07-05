@@ -1,0 +1,45 @@
+{
+"skeleton": { "hash": "btQ7Jwi7Y/vyfVUw4mZLhRKDShM", "spine": "3.8.99", "x": -358.5, "y": -358.5, "width": 717, "height": 717 },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "base_white_rotate_a/base_white_rotate_a_00", "bone": "root", "attachment": "base_white_rotate_a/base_white_rotate_a_00" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"base_white_rotate_a/base_white_rotate_a_00": {
+				"base_white_rotate_a/base_white_rotate_a_00": { "width": 717, "height": 717 },
+				"base_white_rotate_a/base_white_rotate_a_01": { "x": 0.5, "y": 0.5, "width": 717, "height": 717 },
+				"base_white_rotate_a/base_white_rotate_a_02": { "x": 0.5, "y": 0.5, "width": 717, "height": 717 },
+				"base_white_rotate_a/base_white_rotate_a_03": { "x": 0.5, "y": 0.5, "width": 717, "height": 717 },
+				"base_white_rotate_a/base_white_rotate_a_04": { "x": 0.5, "y": 0.5, "width": 717, "height": 717 },
+				"base_white_rotate_a/base_white_rotate_a_05": { "x": 0.5, "y": 0.5, "width": 717, "height": 717 },
+				"base_white_rotate_a/base_white_rotate_a_06": { "x": 0.5, "y": 0.5, "width": 717, "height": 717 },
+				"base_white_rotate_a/base_white_rotate_a_07": { "x": 0.5, "y": 0.5, "width": 717, "height": 717 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"base_white_rotate_a/base_white_rotate_a_00": {
+				"attachment": [
+					{ "name": "base_white_rotate_a/base_white_rotate_a_00" },
+					{ "time": 0.0333, "name": "base_white_rotate_a/base_white_rotate_a_01" },
+					{ "time": 0.0667, "name": "base_white_rotate_a/base_white_rotate_a_02" },
+					{ "time": 0.1, "name": "base_white_rotate_a/base_white_rotate_a_03" },
+					{ "time": 0.1333, "name": "base_white_rotate_a/base_white_rotate_a_04" },
+					{ "time": 0.1667, "name": "base_white_rotate_a/base_white_rotate_a_05" },
+					{ "time": 0.2, "name": "base_white_rotate_a/base_white_rotate_a_06" },
+					{ "time": 0.2333, "name": "base_white_rotate_a/base_white_rotate_a_07" },
+					{ "time": 0.2667, "name": "base_white_rotate_a/base_white_rotate_a_07" }
+				]
+			}
+		}
+	}
+}
+}

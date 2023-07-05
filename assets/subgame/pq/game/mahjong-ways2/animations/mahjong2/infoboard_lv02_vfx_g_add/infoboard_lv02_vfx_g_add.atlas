@@ -1,0 +1,139 @@
+
+infoboard_lv02_vfx_g_add.png
+size: 1934,762
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+infoboard_lv02_vfx_g_add_00
+  rotate: true
+  xy: 2, 2
+  size: 378, 192
+  orig: 378, 192
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_g_add_01
+  rotate: true
+  xy: 196, 382
+  size: 378, 192
+  orig: 378, 192
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_g_add_02
+  rotate: true
+  xy: 196, 2
+  size: 378, 192
+  orig: 378, 192
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_g_add_03
+  rotate: true
+  xy: 390, 382
+  size: 378, 192
+  orig: 378, 192
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_g_add_04
+  rotate: true
+  xy: 390, 2
+  size: 378, 192
+  orig: 378, 192
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_g_add_05
+  rotate: true
+  xy: 584, 382
+  size: 378, 192
+  orig: 378, 192
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_g_add_06
+  rotate: true
+  xy: 584, 2
+  size: 378, 192
+  orig: 378, 192
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_g_add_07
+  rotate: true
+  xy: 778, 382
+  size: 378, 192
+  orig: 378, 192
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_g_add_08
+  rotate: true
+  xy: 778, 2
+  size: 378, 192
+  orig: 378, 192
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_g_add_09
+  rotate: true
+  xy: 972, 382
+  size: 378, 192
+  orig: 378, 192
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_g_add_10
+  rotate: true
+  xy: 972, 2
+  size: 378, 192
+  orig: 378, 192
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_g_add_11
+  rotate: true
+  xy: 1166, 382
+  size: 378, 192
+  orig: 378, 192
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_g_add_12
+  rotate: true
+  xy: 1166, 2
+  size: 378, 192
+  orig: 378, 192
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_g_add_13
+  rotate: false
+  xy: 1360, 568
+  size: 378, 192
+  orig: 378, 192
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_g_add_14
+  rotate: true
+  xy: 1740, 382
+  size: 378, 192
+  orig: 378, 192
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_g_add_15
+  rotate: false
+  xy: 1360, 374
+  size: 378, 192
+  orig: 378, 192
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_g_add_16
+  rotate: true
+  xy: 1740, 2
+  size: 378, 192
+  orig: 378, 192
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_g_add_17
+  rotate: false
+  xy: 1360, 180
+  size: 378, 192
+  orig: 378, 192
+  offset: 0, 0
+  index: -1
+infoboard_lv02_vfx_g_add_18
+  rotate: true
+  xy: 2, 382
+  size: 378, 192
+  orig: 378, 192
+  offset: 0, 0
+  index: -1

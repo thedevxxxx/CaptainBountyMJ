@@ -1,0 +1,76 @@
+
+info_vfx_c.jpg
+size: 1522,544
+format: RGB888
+filter: Linear,Linear
+repeat: none
+info_vfx_c/info_vfx_c_01
+  rotate: true
+  xy: 154, 2
+  size: 540, 150
+  orig: 540, 150
+  offset: 0, 0
+  index: -1
+info_vfx_c/info_vfx_c_02
+  rotate: true
+  xy: 306, 2
+  size: 540, 150
+  orig: 540, 150
+  offset: 0, 0
+  index: -1
+info_vfx_c/info_vfx_c_03
+  rotate: true
+  xy: 458, 2
+  size: 540, 150
+  orig: 540, 150
+  offset: 0, 0
+  index: -1
+info_vfx_c/info_vfx_c_04
+  rotate: true
+  xy: 610, 2
+  size: 540, 150
+  orig: 540, 150
+  offset: 0, 0
+  index: -1
+info_vfx_c/info_vfx_c_05
+  rotate: true
+  xy: 762, 2
+  size: 540, 150
+  orig: 540, 150
+  offset: 0, 0
+  index: -1
+info_vfx_c/info_vfx_c_06
+  rotate: true
+  xy: 914, 2
+  size: 540, 150
+  orig: 540, 150
+  offset: 0, 0
+  index: -1
+info_vfx_c/info_vfx_c_07
+  rotate: true
+  xy: 1066, 2
+  size: 540, 150
+  orig: 540, 150
+  offset: 0, 0
+  index: -1
+info_vfx_c/info_vfx_c_08
+  rotate: true
+  xy: 1218, 2
+  size: 540, 150
+  orig: 540, 150
+  offset: 0, 0
+  index: -1
+info_vfx_c/info_vfx_c_09
+  rotate: true
+  xy: 1370, 2
+  size: 540, 150
+  orig: 540, 150
+  offset: 0, 0
+  index: -1
+info_vfx_c/info_vfx_c_10
+  rotate: true
+  xy: 2, 2
+  size: 540, 150
+  orig: 540, 150
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,243 @@
+
+total_glow_a.jpg
+size: 1628,1907
+format: RGB888
+filter: Linear,Linear
+repeat: none
+total_glow_a/total_glow_a_01
+  rotate: false
+  xy: 2, 637
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1
+total_glow_a/total_glow_a_17
+  rotate: false
+  xy: 2, 637
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1
+total_glow_a/total_glow_a_02
+  rotate: false
+  xy: 544, 1272
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1
+total_glow_a/total_glow_a_05
+  rotate: false
+  xy: 544, 1272
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1
+total_glow_a/total_glow_a_18
+  rotate: false
+  xy: 544, 1272
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1
+total_glow_a/total_glow_a_21
+  rotate: false
+  xy: 544, 1272
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1
+total_glow_a/total_glow_a_04
+  rotate: false
+  xy: 2, 2
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1
+total_glow_a/total_glow_a_20
+  rotate: false
+  xy: 2, 2
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1
+total_glow_a/total_glow_a_06
+  rotate: false
+  xy: 544, 637
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1
+total_glow_a/total_glow_a_22
+  rotate: false
+  xy: 544, 637
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1
+total_glow_a/total_glow_a_07
+  rotate: false
+  xy: 1086, 1272
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1
+total_glow_a/total_glow_a_23
+  rotate: false
+  xy: 1086, 1272
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1
+total_glow_a/total_glow_a_08
+  rotate: false
+  xy: 544, 2
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1
+total_glow_a/total_glow_a_24
+  rotate: false
+  xy: 544, 2
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1
+total_glow_a/total_glow_a_09
+  rotate: false
+  xy: 1086, 637
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1
+total_glow_a/total_glow_a_12
+  rotate: false
+  xy: 1086, 637
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1
+total_glow_a/total_glow_a_25
+  rotate: false
+  xy: 1086, 637
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1
+total_glow_a/total_glow_a_28
+  rotate: false
+  xy: 1086, 637
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1
+total_glow_a/total_glow_a_10
+  rotate: false
+  xy: 1086, 2
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1
+total_glow_a/total_glow_a_26
+  rotate: false
+  xy: 1086, 2
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1
+total_glow_a/total_glow_a_32
+  rotate: false
+  xy: 2, 1272
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1
+total_glow_a/total_glow_a_00
+  rotate: false
+  xy: 2, 1272
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1
+total_glow_a/total_glow_a_03
+  rotate: false
+  xy: 2, 1272
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1
+total_glow_a/total_glow_a_16
+  rotate: false
+  xy: 2, 1272
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1
+total_glow_a/total_glow_a_19
+  rotate: false
+  xy: 2, 1272
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1
+
+total_glow_a2.jpg
+size: 1272,1086
+format: RGB888
+filter: Linear,Linear
+repeat: none
+total_glow_a/total_glow_a_11
+  rotate: true
+  xy: 2, 544
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1
+total_glow_a/total_glow_a_27
+  rotate: true
+  xy: 2, 544
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1
+total_glow_a/total_glow_a_13
+  rotate: true
+  xy: 637, 544
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1
+total_glow_a/total_glow_a_29
+  rotate: true
+  xy: 637, 544
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1
+total_glow_a/total_glow_a_14
+  rotate: true
+  xy: 2, 2
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1
+total_glow_a/total_glow_a_30
+  rotate: true
+  xy: 2, 2
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1
+total_glow_a/total_glow_a_15
+  rotate: true
+  xy: 637, 2
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1
+total_glow_a/total_glow_a_31
+  rotate: true
+  xy: 637, 2
+  size: 540, 633
+  orig: 540, 633
+  offset: 0, 0
+  index: -1

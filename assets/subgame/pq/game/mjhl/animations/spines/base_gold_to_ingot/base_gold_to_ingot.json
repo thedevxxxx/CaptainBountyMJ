@@ -1,0 +1,67 @@
+{
+"skeleton": { "hash": "mBCPMO5/r1KeeJiJMgZZiJ2KKDo", "spine": "3.8.99", "x": -358.5, "y": -358.5, "width": 717, "height": 717 },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "base_gold_to_ingot/base_gold_to_ingot_00", "bone": "root", "attachment": "base_gold_to_ingot/base_gold_to_ingot_00" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"base_gold_to_ingot/base_gold_to_ingot_00": {
+				"base_gold_to_ingot/base_gold_to_ingot_00": { "width": 717, "height": 717 },
+				"base_gold_to_ingot/base_gold_to_ingot_01": { "x": 0.5, "y": 0.5, "width": 717, "height": 717 },
+				"base_gold_to_ingot/base_gold_to_ingot_02": { "x": 0.5, "y": 0.5, "width": 717, "height": 717 },
+				"base_gold_to_ingot/base_gold_to_ingot_03": { "x": 0.5, "y": 0.5, "width": 717, "height": 717 },
+				"base_gold_to_ingot/base_gold_to_ingot_04": { "x": 0.5, "y": 0.5, "width": 717, "height": 717 },
+				"base_gold_to_ingot/base_gold_to_ingot_05": { "x": 0.5, "y": 0.5, "width": 717, "height": 717 },
+				"base_gold_to_ingot/base_gold_to_ingot_06": { "x": 0.5, "y": 0.5, "width": 717, "height": 717 },
+				"base_gold_to_ingot/base_gold_to_ingot_07": { "x": 0.5, "y": 0.5, "width": 717, "height": 717 },
+				"base_gold_to_ingot/base_gold_to_ingot_08": { "x": 0.5, "y": 0.5, "width": 717, "height": 717 },
+				"base_gold_to_ingot/base_gold_to_ingot_09": { "x": 0.5, "y": 0.5, "width": 717, "height": 717 },
+				"base_gold_to_ingot/base_gold_to_ingot_10": { "x": 0.5, "y": 0.5, "width": 717, "height": 717 },
+				"base_gold_to_ingot/base_gold_to_ingot_11": { "x": 0.5, "y": 0.5, "width": 717, "height": 717 },
+				"base_gold_to_ingot/base_gold_to_ingot_12": { "x": 0.5, "y": 0.5, "width": 717, "height": 717 },
+				"base_gold_to_ingot/base_gold_to_ingot_13": { "x": 0.5, "y": 0.5, "width": 717, "height": 717 },
+				"base_gold_to_ingot/base_gold_to_ingot_14": { "x": 0.5, "y": 0.5, "width": 717, "height": 717 },
+				"base_gold_to_ingot/base_gold_to_ingot_15": { "x": 0.5, "y": 0.5, "width": 717, "height": 717 },
+				"base_gold_to_ingot/base_gold_to_ingot_16": { "x": 0.5, "y": 0.5, "width": 717, "height": 717 },
+				"base_gold_to_ingot/base_gold_to_ingot_17": { "x": 0.5, "y": 0.5, "width": 717, "height": 717 },
+				"base_gold_to_ingot/base_gold_to_ingot_18": { "x": 0.5, "y": 0.5, "width": 717, "height": 717 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"base_gold_to_ingot/base_gold_to_ingot_00": {
+				"attachment": [
+					{ "name": "base_gold_to_ingot/base_gold_to_ingot_00" },
+					{ "time": 0.0333, "name": "base_gold_to_ingot/base_gold_to_ingot_01" },
+					{ "time": 0.0667, "name": "base_gold_to_ingot/base_gold_to_ingot_02" },
+					{ "time": 0.1, "name": "base_gold_to_ingot/base_gold_to_ingot_03" },
+					{ "time": 0.1333, "name": "base_gold_to_ingot/base_gold_to_ingot_04" },
+					{ "time": 0.1667, "name": "base_gold_to_ingot/base_gold_to_ingot_05" },
+					{ "time": 0.2, "name": "base_gold_to_ingot/base_gold_to_ingot_06" },
+					{ "time": 0.2333, "name": "base_gold_to_ingot/base_gold_to_ingot_07" },
+					{ "time": 0.2667, "name": "base_gold_to_ingot/base_gold_to_ingot_08" },
+					{ "time": 0.3, "name": "base_gold_to_ingot/base_gold_to_ingot_09" },
+					{ "time": 0.3333, "name": "base_gold_to_ingot/base_gold_to_ingot_10" },
+					{ "time": 0.3667, "name": "base_gold_to_ingot/base_gold_to_ingot_11" },
+					{ "time": 0.4, "name": "base_gold_to_ingot/base_gold_to_ingot_12" },
+					{ "time": 0.4333, "name": "base_gold_to_ingot/base_gold_to_ingot_13" },
+					{ "time": 0.4667, "name": "base_gold_to_ingot/base_gold_to_ingot_14" },
+					{ "time": 0.5, "name": "base_gold_to_ingot/base_gold_to_ingot_15" },
+					{ "time": 0.5333, "name": "base_gold_to_ingot/base_gold_to_ingot_16" },
+					{ "time": 0.5667, "name": "base_gold_to_ingot/base_gold_to_ingot_17" },
+					{ "time": 0.6, "name": "base_gold_to_ingot/base_gold_to_ingot_18" },
+					{ "time": 0.6333, "name": "base_gold_to_ingot/base_gold_to_ingot_00" }
+				]
+			}
+		}
+	}
+}
+}

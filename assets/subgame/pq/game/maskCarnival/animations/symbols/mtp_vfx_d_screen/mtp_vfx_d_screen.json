@@ -1,0 +1,509 @@
+{
+    "skeleton": {
+        "width": 756,
+        "height": 113,
+        "fps": 24,
+        "hash": " ",
+        "name": "Armature"
+    },
+    "bones": [
+        {
+            "name": "root"
+        }
+    ],
+    "slots": [
+        {
+            "name": "mtp_vfx_d_screen_00",
+            "bone": "root",
+            "attachment": "mtp_vfx_d_screen_00",
+            "blend": "additive"
+        },
+        {
+            "name": "mtp_vfx_d_screen_01",
+            "bone": "root",
+            "attachment": "mtp_vfx_d_screen_01",
+            "blend": "additive"
+        },
+        {
+            "name": "mtp_vfx_d_screen_02",
+            "bone": "root",
+            "attachment": "mtp_vfx_d_screen_02",
+            "blend": "additive"
+        },
+        {
+            "name": "mtp_vfx_d_screen_03",
+            "bone": "root",
+            "attachment": "mtp_vfx_d_screen_03",
+            "blend": "additive"
+        },
+        {
+            "name": "mtp_vfx_d_screen_04",
+            "bone": "root",
+            "attachment": "mtp_vfx_d_screen_04",
+            "blend": "additive"
+        },
+        {
+            "name": "mtp_vfx_d_screen_05",
+            "bone": "root",
+            "attachment": "mtp_vfx_d_screen_05",
+            "blend": "additive"
+        },
+        {
+            "name": "mtp_vfx_d_screen_06",
+            "bone": "root",
+            "attachment": "mtp_vfx_d_screen_06",
+            "blend": "additive"
+        },
+        {
+            "name": "mtp_vfx_d_screen_07",
+            "bone": "root",
+            "attachment": "mtp_vfx_d_screen_07",
+            "blend": "additive"
+        },
+        {
+            "name": "mtp_vfx_d_screen_08",
+            "bone": "root",
+            "attachment": "mtp_vfx_d_screen_08",
+            "blend": "additive"
+        },
+        {
+            "name": "mtp_vfx_d_screen_09",
+            "bone": "root",
+            "attachment": "mtp_vfx_d_screen_09",
+            "blend": "additive"
+        },
+        {
+            "name": "mtp_vfx_d_screen_10",
+            "bone": "root",
+            "attachment": "mtp_vfx_d_screen_10",
+            "blend": "additive"
+        },
+        {
+            "name": "mtp_vfx_d_screen_11",
+            "bone": "root",
+            "attachment": "mtp_vfx_d_screen_11",
+            "blend": "additive"
+        },
+        {
+            "name": "mtp_vfx_d_screen_12",
+            "bone": "root",
+            "attachment": "mtp_vfx_d_screen_12",
+            "blend": "additive"
+        },
+        {
+            "name": "mtp_vfx_d_screen_13",
+            "bone": "root",
+            "attachment": "mtp_vfx_d_screen_13",
+            "blend": "additive"
+        },
+        {
+            "name": "mtp_vfx_d_screen_14",
+            "bone": "root",
+            "attachment": "mtp_vfx_d_screen_14",
+            "blend": "additive"
+        }
+    ],
+    "skins": {
+        "default": {
+            "mtp_vfx_d_screen_10": {
+                "mtp_vfx_d_screen_10": {
+                    "name": "mtp_vfx_d_screen_10",
+                    "width": 756,
+                    "height": 113
+                }
+            },
+            "mtp_vfx_d_screen_04": {
+                "mtp_vfx_d_screen_04": {
+                    "name": "mtp_vfx_d_screen_04",
+                    "width": 756,
+                    "height": 113
+                }
+            },
+            "mtp_vfx_d_screen_05": {
+                "mtp_vfx_d_screen_05": {
+                    "name": "mtp_vfx_d_screen_05",
+                    "width": 756,
+                    "height": 113
+                }
+            },
+            "mtp_vfx_d_screen_06": {
+                "mtp_vfx_d_screen_06": {
+                    "name": "mtp_vfx_d_screen_06",
+                    "width": 756,
+                    "height": 113
+                }
+            },
+            "mtp_vfx_d_screen_12": {
+                "mtp_vfx_d_screen_12": {
+                    "name": "mtp_vfx_d_screen_12",
+                    "width": 756,
+                    "height": 113
+                }
+            },
+            "mtp_vfx_d_screen_08": {
+                "mtp_vfx_d_screen_08": {
+                    "name": "mtp_vfx_d_screen_08",
+                    "width": 756,
+                    "height": 113
+                }
+            },
+            "mtp_vfx_d_screen_03": {
+                "mtp_vfx_d_screen_03": {
+                    "name": "mtp_vfx_d_screen_03",
+                    "width": 756,
+                    "height": 113
+                }
+            },
+            "mtp_vfx_d_screen_11": {
+                "mtp_vfx_d_screen_11": {
+                    "name": "mtp_vfx_d_screen_11",
+                    "width": 756,
+                    "height": 113
+                }
+            },
+            "mtp_vfx_d_screen_01": {
+                "mtp_vfx_d_screen_01": {
+                    "name": "mtp_vfx_d_screen_01",
+                    "width": 756,
+                    "height": 113
+                }
+            },
+            "mtp_vfx_d_screen_02": {
+                "mtp_vfx_d_screen_02": {
+                    "name": "mtp_vfx_d_screen_02",
+                    "width": 756,
+                    "height": 113
+                }
+            },
+            "mtp_vfx_d_screen_00": {
+                "mtp_vfx_d_screen_00": {
+                    "name": "mtp_vfx_d_screen_00",
+                    "width": 756,
+                    "height": 113
+                }
+            },
+            "mtp_vfx_d_screen_07": {
+                "mtp_vfx_d_screen_07": {
+                    "name": "mtp_vfx_d_screen_07",
+                    "width": 756,
+                    "height": 113
+                }
+            },
+            "mtp_vfx_d_screen_09": {
+                "mtp_vfx_d_screen_09": {
+                    "name": "mtp_vfx_d_screen_09",
+                    "width": 756,
+                    "height": 113
+                }
+            },
+            "mtp_vfx_d_screen_14": {
+                "mtp_vfx_d_screen_14": {
+                    "name": "mtp_vfx_d_screen_14",
+                    "width": 756,
+                    "height": 113
+                }
+            },
+            "mtp_vfx_d_screen_13": {
+                "mtp_vfx_d_screen_13": {
+                    "name": "mtp_vfx_d_screen_13",
+                    "width": 756,
+                    "height": 113
+                }
+            }
+        }
+    },
+    "animations": {
+        "newAnimation": {
+            "slots": {
+                "mtp_vfx_d_screen_00": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.0417,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "mtp_vfx_d_screen_01": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.0417,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.0834,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "mtp_vfx_d_screen_02": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.0417,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.0834,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.1251,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "mtp_vfx_d_screen_03": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.0833,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "mtp_vfx_d_screen_04": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.2084,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "mtp_vfx_d_screen_05": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.2084,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.2501,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "mtp_vfx_d_screen_06": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.2083,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.25,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.2917,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "mtp_vfx_d_screen_07": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.25,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.2917,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.3334,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "mtp_vfx_d_screen_08": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.2917,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.3334,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.3751,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "mtp_vfx_d_screen_09": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.3333,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.375,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.4167,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "mtp_vfx_d_screen_10": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.375,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.4167,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.4584,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "mtp_vfx_d_screen_11": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.4167,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.4584,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.5001,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "mtp_vfx_d_screen_12": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.4583,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.5,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.5417,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "mtp_vfx_d_screen_13": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.5,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.5417,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.5834,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "mtp_vfx_d_screen_14": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.5417,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.5834,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.6251,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

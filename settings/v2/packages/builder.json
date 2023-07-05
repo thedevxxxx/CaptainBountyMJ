@@ -1,0 +1,14 @@
+{
+  "splash-setting": {
+    "url": "/Applications/CocosCreator/Creator/3.4.2/CocosCreator.app/Contents/Resources/app.asar/static/logo.png",
+    "displayRatio": 0.4,
+    "totalTime": 0,
+    "clearColor": {
+      "x": 0.88,
+      "y": 0.88,
+      "z": 0.88,
+      "w": 1
+    },
+    "displayWatermark": false
+  }
+}

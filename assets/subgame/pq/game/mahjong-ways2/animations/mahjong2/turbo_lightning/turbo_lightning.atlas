@@ -1,0 +1,111 @@
+
+turbo_lightning.png
+size: 153,30
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+turbo_lightning_00
+  rotate: true
+  xy: 96, 2
+  size: 13, 25
+  orig: 60, 60
+  offset: 37, 30
+  index: -1
+turbo_lightning_01
+  rotate: false
+  xy: 123, 3
+  size: 11, 15
+  orig: 60, 60
+  offset: 31, 29
+  index: -1
+turbo_lightning_03
+  rotate: false
+  xy: 141, 11
+  size: 10, 17
+  orig: 60, 60
+  offset: 28, 20
+  index: -1
+turbo_lightning_04
+  rotate: true
+  xy: 66, 2
+  size: 13, 28
+  orig: 60, 60
+  offset: 24, 11
+  index: -1
+turbo_lightning_05
+  rotate: true
+  xy: 66, 17
+  size: 11, 37
+  orig: 60, 60
+  offset: 21, 2
+  index: -1
+turbo_lightning_06
+  rotate: true
+  xy: 105, 20
+  size: 8, 34
+  orig: 60, 60
+  offset: 22, 4
+  index: -1
+turbo_lightning_12
+  rotate: true
+  xy: 2, 2
+  size: 26, 28
+  orig: 60, 60
+  offset: 11, 24
+  index: -1
+turbo_lightning_13
+  rotate: true
+  xy: 32, 9
+  size: 19, 32
+  orig: 60, 60
+  offset: 20, 22
+  index: -1
+turbo_lightning_14
+  rotate: false
+  xy: 32, 6
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+turbo_lightning_02
+  rotate: false
+  xy: 32, 6
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+turbo_lightning_07
+  rotate: false
+  xy: 32, 6
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+turbo_lightning_08
+  rotate: false
+  xy: 32, 6
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+turbo_lightning_09
+  rotate: false
+  xy: 32, 6
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+turbo_lightning_10
+  rotate: false
+  xy: 32, 6
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+turbo_lightning_11
+  rotate: false
+  xy: 32, 6
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

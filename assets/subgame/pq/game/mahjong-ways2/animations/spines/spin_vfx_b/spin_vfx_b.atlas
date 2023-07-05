@@ -1,0 +1,62 @@
+
+spin_vfx_b.jpg
+size: 1794,226
+format: RGB888
+filter: Linear,Linear
+repeat: none
+spin_vfx_b/spin_vfx_b_01
+  rotate: false
+  xy: 226, 2
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+spin_vfx_b/spin_vfx_b_02
+  rotate: false
+  xy: 450, 2
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+spin_vfx_b/spin_vfx_b_03
+  rotate: false
+  xy: 674, 2
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+spin_vfx_b/spin_vfx_b_04
+  rotate: false
+  xy: 898, 2
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+spin_vfx_b/spin_vfx_b_05
+  rotate: false
+  xy: 1122, 2
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+spin_vfx_b/spin_vfx_b_06
+  rotate: false
+  xy: 1346, 2
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+spin_vfx_b/spin_vfx_b_07
+  rotate: false
+  xy: 1570, 2
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+spin_vfx_b/spin_vfx_b_08
+  rotate: false
+  xy: 2, 2
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1

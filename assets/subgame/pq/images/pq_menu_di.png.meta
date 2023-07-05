@@ -1,0 +1,74 @@
+{
+  "ver": "1.0.22",
+  "importer": "image",
+  "imported": true,
+  "uuid": "6382be9e-305f-4163-9843-bd7723e2d325",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "6382be9e-305f-4163-9843-bd7723e2d325@6c48a",
+      "displayName": "pq_menu_di",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "wrapModeT": "clamp-to-edge",
+        "wrapModeS": "clamp-to-edge",
+        "mipfilter": "none",
+        "imageUuidOrDatabaseUri": "6382be9e-305f-4163-9843-bd7723e2d325",
+        "anisotropy": 0,
+        "isUuid": true
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "6382be9e-305f-4163-9843-bd7723e2d325@f9941",
+      "displayName": "pq_menu_di",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "none",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 257,
+        "height": 252,
+        "rawWidth": 257,
+        "rawHeight": 252,
+        "borderTop": 20,
+        "borderBottom": 20,
+        "borderLeft": 0,
+        "borderRight": 20,
+        "imageUuidOrDatabaseUri": "6382be9e-305f-4163-9843-bd7723e2d325@6c48a",
+        "packable": true,
+        "isUuid": true,
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "hasAlpha": true,
+    "redirect": "6382be9e-305f-4163-9843-bd7723e2d325@f9941"
+  }
+}

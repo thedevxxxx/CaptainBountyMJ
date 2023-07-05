@@ -1,0 +1,85 @@
+{
+"skeleton": { "hash": "mH9+07TAaszhygEM1Z07nm4U5iw", "spine": "3.8.99", "x": -394, "y": -81.5, "width": 788, "height": 163 },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "bw_vfx_d/bw_vfx_d_00", "bone": "root", "attachment": "bw_vfx_d/bw_vfx_d_00", "blend": "additive" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"bw_vfx_d/bw_vfx_d_00": {
+				"bw_vfx_d/bw_vfx_d_00": { "width": 788, "height": 163 },
+				"bw_vfx_d/bw_vfx_d_01": { "y": 0.5, "width": 788, "height": 163 },
+				"bw_vfx_d/bw_vfx_d_02": { "y": 0.5, "width": 788, "height": 163 },
+				"bw_vfx_d/bw_vfx_d_03": { "y": 0.5, "width": 788, "height": 163 },
+				"bw_vfx_d/bw_vfx_d_04": { "y": 0.5, "width": 788, "height": 163 },
+				"bw_vfx_d/bw_vfx_d_05": { "y": 0.5, "width": 788, "height": 163 },
+				"bw_vfx_d/bw_vfx_d_06": { "y": 0.5, "width": 788, "height": 163 },
+				"bw_vfx_d/bw_vfx_d_07": { "y": 0.5, "width": 788, "height": 163 },
+				"bw_vfx_d/bw_vfx_d_08": { "y": 0.5, "width": 788, "height": 163 },
+				"bw_vfx_d/bw_vfx_d_09": { "y": 0.5, "width": 788, "height": 163 },
+				"bw_vfx_d/bw_vfx_d_10": { "y": 0.5, "width": 788, "height": 163 },
+				"bw_vfx_d/bw_vfx_d_11": { "y": 0.5, "width": 788, "height": 163 },
+				"bw_vfx_d/bw_vfx_d_12": { "y": 0.5, "width": 788, "height": 163 },
+				"bw_vfx_d/bw_vfx_d_13": { "y": 0.5, "width": 788, "height": 163 },
+				"bw_vfx_d/bw_vfx_d_14": { "y": 0.5, "width": 788, "height": 163 },
+				"bw_vfx_d/bw_vfx_d_15": { "y": 0.5, "width": 788, "height": 163 },
+				"bw_vfx_d/bw_vfx_d_16": { "y": 0.5, "width": 788, "height": 163 },
+				"bw_vfx_d/bw_vfx_d_17": { "y": 0.5, "width": 788, "height": 163 },
+				"bw_vfx_d/bw_vfx_d_18": { "y": 0.5, "width": 788, "height": 163 },
+				"bw_vfx_d/bw_vfx_d_19": { "y": 0.5, "width": 788, "height": 163 },
+				"bw_vfx_d/bw_vfx_d_20": { "y": 0.5, "width": 788, "height": 163 },
+				"bw_vfx_d/bw_vfx_d_21": { "y": 0.5, "width": 788, "height": 163 },
+				"bw_vfx_d/bw_vfx_d_22": { "y": 0.5, "width": 788, "height": 163 },
+				"bw_vfx_d/bw_vfx_d_23": { "y": 0.5, "width": 788, "height": 163 },
+				"bw_vfx_d/bw_vfx_d_24": { "y": 0.5, "width": 788, "height": 163 },
+				"bw_vfx_d/bw_vfx_d_25": { "y": 0.5, "width": 788, "height": 163 },
+				"bw_vfx_d/bw_vfx_d_26": { "y": 0.5, "width": 788, "height": 163 },
+				"bw_vfx_d/bw_vfx_d_27": { "y": 0.5, "width": 788, "height": 163 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"bw_vfx_d/bw_vfx_d_00": {
+				"attachment": [
+					{ "name": "bw_vfx_d/bw_vfx_d_00" },
+					{ "time": 0.0333, "name": "bw_vfx_d/bw_vfx_d_01" },
+					{ "time": 0.0667, "name": "bw_vfx_d/bw_vfx_d_02" },
+					{ "time": 0.1, "name": "bw_vfx_d/bw_vfx_d_03" },
+					{ "time": 0.1333, "name": "bw_vfx_d/bw_vfx_d_04" },
+					{ "time": 0.1667, "name": "bw_vfx_d/bw_vfx_d_05" },
+					{ "time": 0.2, "name": "bw_vfx_d/bw_vfx_d_06" },
+					{ "time": 0.2333, "name": "bw_vfx_d/bw_vfx_d_07" },
+					{ "time": 0.2667, "name": "bw_vfx_d/bw_vfx_d_08" },
+					{ "time": 0.3, "name": "bw_vfx_d/bw_vfx_d_09" },
+					{ "time": 0.3333, "name": "bw_vfx_d/bw_vfx_d_10" },
+					{ "time": 0.3667, "name": "bw_vfx_d/bw_vfx_d_11" },
+					{ "time": 0.4, "name": "bw_vfx_d/bw_vfx_d_12" },
+					{ "time": 0.4333, "name": "bw_vfx_d/bw_vfx_d_13" },
+					{ "time": 0.4667, "name": "bw_vfx_d/bw_vfx_d_14" },
+					{ "time": 0.5, "name": "bw_vfx_d/bw_vfx_d_15" },
+					{ "time": 0.5333, "name": "bw_vfx_d/bw_vfx_d_16" },
+					{ "time": 0.5667, "name": "bw_vfx_d/bw_vfx_d_17" },
+					{ "time": 0.6, "name": "bw_vfx_d/bw_vfx_d_18" },
+					{ "time": 0.6333, "name": "bw_vfx_d/bw_vfx_d_19" },
+					{ "time": 0.6667, "name": "bw_vfx_d/bw_vfx_d_20" },
+					{ "time": 0.7, "name": "bw_vfx_d/bw_vfx_d_21" },
+					{ "time": 0.7333, "name": "bw_vfx_d/bw_vfx_d_22" },
+					{ "time": 0.7667, "name": "bw_vfx_d/bw_vfx_d_23" },
+					{ "time": 0.8, "name": "bw_vfx_d/bw_vfx_d_24" },
+					{ "time": 0.8333, "name": "bw_vfx_d/bw_vfx_d_25" },
+					{ "time": 0.8667, "name": "bw_vfx_d/bw_vfx_d_26" },
+					{ "time": 0.9, "name": "bw_vfx_d/bw_vfx_d_27" },
+					{ "time": 0.9333, "name": "bw_vfx_d/bw_vfx_d_00" }
+				]
+			}
+		}
+	}
+}
+}

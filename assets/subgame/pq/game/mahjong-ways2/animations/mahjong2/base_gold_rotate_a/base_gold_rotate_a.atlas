@@ -1,0 +1,62 @@
+
+base_gold_rotate_a.png
+size: 1340,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base_gold_rotate_a_00
+  rotate: false
+  xy: 194, 3
+  size: 190, 223
+  orig: 872, 872
+  offset: 342, 338
+  index: -1
+base_gold_rotate_a_01
+  rotate: false
+  xy: 386, 3
+  size: 188, 223
+  orig: 872, 872
+  offset: 343, 338
+  index: -1
+base_gold_rotate_a_02
+  rotate: false
+  xy: 2, 2
+  size: 190, 224
+  orig: 872, 872
+  offset: 341, 337
+  index: -1
+base_gold_rotate_a_03
+  rotate: false
+  xy: 576, 3
+  size: 187, 223
+  orig: 872, 872
+  offset: 342, 339
+  index: -1
+base_gold_rotate_a_04
+  rotate: false
+  xy: 765, 5
+  size: 183, 221
+  orig: 872, 872
+  offset: 344, 341
+  index: -1
+base_gold_rotate_a_05
+  rotate: false
+  xy: 950, 10
+  size: 155, 216
+  orig: 872, 872
+  offset: 357, 344
+  index: -1
+base_gold_rotate_a_06
+  rotate: false
+  xy: 1244, 6
+  size: 94, 220
+  orig: 872, 872
+  offset: 388, 343
+  index: -1
+base_gold_rotate_a_07
+  rotate: false
+  xy: 1107, 7
+  size: 135, 219
+  orig: 872, 872
+  offset: 370, 343
+  index: -1

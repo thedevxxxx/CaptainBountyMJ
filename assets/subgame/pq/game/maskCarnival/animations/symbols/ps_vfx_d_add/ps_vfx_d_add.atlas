@@ -1,0 +1,55 @@
+
+ps_vfx_d_add.png
+size: 349,657
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ps_vfx_d_add_00
+  rotate: false
+  xy: 175, 1
+  size: 172, 162
+  orig: 172, 162
+  offset: 0, 0
+  index: -1
+ps_vfx_d_add_01
+  rotate: false
+  xy: 175, 329
+  size: 172, 162
+  orig: 172, 162
+  offset: 0, 0
+  index: -1
+ps_vfx_d_add_02
+  rotate: false
+  xy: 175, 165
+  size: 172, 162
+  orig: 172, 162
+  offset: 0, 0
+  index: -1
+ps_vfx_d_add_03
+  rotate: false
+  xy: 1, 165
+  size: 172, 162
+  orig: 172, 162
+  offset: 0, 0
+  index: -1
+ps_vfx_d_add_04
+  rotate: false
+  xy: 1, 493
+  size: 172, 162
+  orig: 172, 162
+  offset: 0, 0
+  index: -1
+ps_vfx_d_add_05
+  rotate: false
+  xy: 1, 1
+  size: 172, 162
+  orig: 172, 162
+  offset: 0, 0
+  index: -1
+ps_vfx_d_add_06
+  rotate: false
+  xy: 1, 329
+  size: 172, 162
+  orig: 172, 162
+  offset: 0, 0
+  index: -1

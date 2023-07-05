@@ -1,0 +1,41 @@
+
+turbo_trans.png
+size: 183,46
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+turbo_trans_00
+  rotate: false
+  xy: 2, 2
+  size: 37, 42
+  orig: 50, 50
+  offset: 7, 2
+  index: -1
+turbo_trans_01
+  rotate: false
+  xy: 41, 2
+  size: 36, 42
+  orig: 50, 50
+  offset: 7, 2
+  index: -1
+turbo_trans_02
+  rotate: false
+  xy: 79, 2
+  size: 34, 42
+  orig: 50, 50
+  offset: 9, 2
+  index: -1
+turbo_trans_03
+  rotate: false
+  xy: 149, 2
+  size: 32, 42
+  orig: 50, 50
+  offset: 10, 2
+  index: -1
+turbo_trans_04
+  rotate: false
+  xy: 115, 2
+  size: 32, 42
+  orig: 50, 50
+  offset: 10, 3
+  index: -1

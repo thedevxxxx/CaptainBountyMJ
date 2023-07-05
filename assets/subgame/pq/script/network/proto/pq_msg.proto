@@ -1,0 +1,184 @@
+syntax = "proto3";
+package msg;
+option go_package = ".;msg";
+
+enum SubCommand {
+  //應與msg.go init註冊順序一致
+  //由client端發出
+  EnumSubLoginReq = 0; //登陆Req API=> /api/v1/auth/login
+  EnumSubLoginResp = 1; //登陆Resp
+  EnumSubLogoutReq = 2; //登出Req API=> /api/v1/game/logout
+  EnumSubLogoutResp = 3; //登出Resp
+  EnumSubEnterGameReq = 4; //進入遊戲Req API=> /api/v1/game/enter
+  EnumSubEnterGameResp = 5; //進入遊戲Resp
+  EnumSubSpinReq = 6; //下注Req API=> /api/v1/game/spin
+  EnumSubSpinResp = 7; //下注Resp
+  EnumSubAuthErrorResp = 8; //驗證失敗Resp
+  EnumSubUserRefreshTokenReq = 9; //刷新Token Req API=> /api/v1/game/refreshToken
+  EnumSubUserRefreshTokenResp = 10; //刷新Token Resp
+  EnumSubGetUserGameDataReq = 11; //獲取用戶某時間段遊戲數據 Req API=> /api/v1/game/getUserGameData
+  EnumSubGetUserGameDataResp = 12; //獲取用戶某時間段遊戲數據 Resp
+
+  //由server發出, 不需要response
+}
+
+//0.登入
+message UserLoginReq {
+  uint32 user_id = 1;
+  string game_id = 2;
+  string password = 3;
+  string token = 4;
+}
+
+//1.登入
+message UserLoginResp {
+  message GameFreeCount {
+    string game_code = 1;
+    uint32 free_count = 2;
+  }
+  CommandResult result = 1;
+  UserInfo user_info = 2;
+  repeated GameFreeCount all_game_free_count = 3; //所有遊戲免費次數(只包含遊戲剩餘免費次數大於0)
+  string version = 4;
+}
+
+//2.登出
+message UserLogoutReq {
+  uint32 user_id = 1;
+}
+
+//3.登出
+message UserLogoutResp {
+  CommandResult result = 1;
+}
+
+//4.進入遊戲
+message UserEnterGameReq {
+  uint32 user_id = 1;
+  string game_code = 2; //遊戲代碼
+}
+
+//5.進入遊戲
+message UserEnterGameResp {
+  repeated LotteryInfo last_lottery_info = 1; //玩家歷史最後一場開獎信息
+  CommandResult result = 2;
+}
+
+//6.下注
+message UserSpinReq {
+  uint32 user_id = 1;
+  string game_code = 2; //遊戲代碼
+  double bet_size = 3; //投注大小
+  uint32 bet_level = 4; //投注倍數
+  uint32 base_bet = 5; //基礎投注
+}
+
+//7.下注
+message UserSpinResp {
+  CommandResult result = 1;
+  LotteryInfo lottery_info = 2; //開獎信息
+}
+
+//8.驗證失敗
+message AuthErrorResponse {
+  CommandResult result = 1 ;
+}
+
+//9.刷新Token
+message UserRefreshTokenReq {
+  uint32 user_id = 1;
+}
+
+//10.刷新Token
+message UserRefreshTokenResp {
+  CommandResult result = 1;
+  string pq_token = 2; //PQ服務的token, 發送請求時會先驗證
+}
+
+//11.獲取用戶某時間段遊戲數據
+message GetUserGameDataReq {
+  uint32 user_id = 1;
+  string game_code = 2;
+  int64 start_time = 3;
+  int64 end_time = 4;
+  int64 page = 5; //預設1
+  int64 limit = 6; //預設50
+}
+
+//12.獲取用戶某時間段遊戲數據
+message GetUserGameDataResp {
+  CommandResult result = 1;
+  repeated LotteryInfo history = 2; //玩家歷史最後一場開獎信息
+}
+
+// 執行Command結果
+message CommandResult {
+  enum ResultCode{
+    Success = 0;
+    DataIllegal = 1; //非法数据
+    InvalidUser = 2; //非法用戶
+    CenterServerDisconnect = 3; //中心服务器中断
+    Unauthorized = 4; //沒有權限
+    NotEnoughMinEntryAmount = 5; //用戶金幣低於准入門檻
+    ChipDoesNotExist = 6; //籌碼不存在
+    BalanceNotEnough = 7; //余额不足
+    GameDoesNotExist = 8; //遊戲不存在
+    TokenDoesNotExist = 9; //Token不存在
+  }
+  ResultCode result_code = 2;
+  string message = 3; //補充訊息 ResultCode=0時,message=第三方返回error code
+  int64 server_time = 4;
+}
+
+//玩家訊息
+message UserInfo {
+  uint32 user_id = 1;
+  string user_name = 2;
+  string head_url = 3;
+  double balance = 4;
+  double lock_balance = 5;
+  string pq_token = 6; //PQ服務的token, 發送請求時會先驗證
+}
+
+// 開獎資料(一輪)
+message OneLotteryInfo {
+  message SymbolInfo {
+    uint32 symbol_id = 1; //符號
+    bool is_gold = 2;//是否為金色符號
+    bool is_lucky = 3;//是否中獎
+  }
+  message SymbolList {
+    repeated SymbolInfo reel_symbols = 1; //每一軸的開獎信息
+  }
+  message WinInfo {
+    uint32 symbol_id = 1; //符號
+    repeated uint32 line_list = 2; //連線每軸數量
+  }
+  string bet_id = 1; //子投注單
+  uint32 win_multiplier = 2; //獎金翻倍乘數
+  repeated SymbolList all_symbols = 3; //开奖信息
+  bool is_free = 4; //是否押注中免费
+  uint32 get_free_count = 5; //增加免费押注次数
+  double win_money = 6; //子注單本輪收入
+  double balance = 7; //玩家餘額(非中心服,後端計算)
+  repeated WinInfo win_info_list = 8; //贏獎明細
+}
+
+// 開獎資料(一局)
+message LotteryInfo {
+  string game_code = 1;
+  uint32 user_id = 2; //玩家ID
+  string parent_bet_id = 3; //母注单
+  string round_bet_id = 4; //局號(搜尋遊戲數據用)
+  double bet_size = 5; //投注大小
+  uint32 bet_level = 6; //投注倍數
+  uint32 base_bet = 7; //基礎投注
+  double bet_money = 8; //下注金额, 金額0則當局為免費遊戲
+  repeated OneLotteryInfo lottery_info_list = 9; //開獎資料
+  double balance = 10; //玩家餘額(中心服返回)
+  uint32 final_free_count = 11; //最終該遊戲剩餘免費次數
+  int64 bet_time = 12; //下注時間(unix time)
+  double offset_to_player = 13; //淨輸贏(收入-下注)
+  int32 package_id = 14; //渠道id
+}
+

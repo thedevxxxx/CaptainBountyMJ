@@ -1,0 +1,45 @@
+{
+"skeleton": { "hash": "uZ5BuWlDFopO7YJyTVUA/cx76m4", "spine": "3.8.99", "x": -99.5, "y": -308, "width": 199, "height": 616 },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "fast_vfx_a/fast_vfx_a_05", "bone": "root", "attachment": "fast_vfx_a/fast_vfx_a_05" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"fast_vfx_a/fast_vfx_a_05": {
+				"fast_vfx_a/fast_vfx_a_05": { "width": 199, "height": 616 },
+				"fast_vfx_a/fast_vfx_a_06": { "x": 0.5, "width": 199, "height": 616 },
+				"fast_vfx_a/fast_vfx_a_07": { "x": 0.5, "width": 199, "height": 616 },
+				"fast_vfx_a/fast_vfx_a_08": { "x": 0.5, "width": 199, "height": 616 },
+				"fast_vfx_a/fast_vfx_a_09": { "x": 0.5, "width": 199, "height": 616 },
+				"fast_vfx_a/fast_vfx_a_10": { "x": 0.5, "width": 199, "height": 616 },
+				"fast_vfx_a/fast_vfx_a_11": { "x": 0.5, "width": 199, "height": 616 },
+				"fast_vfx_a/fast_vfx_a_12": { "x": 0.5, "width": 199, "height": 616 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"fast_vfx_a/fast_vfx_a_05": {
+				"attachment": [
+					{ "name": "fast_vfx_a/fast_vfx_a_05" },
+					{ "time": 0.0333, "name": "fast_vfx_a/fast_vfx_a_06" },
+					{ "time": 0.0667, "name": "fast_vfx_a/fast_vfx_a_07" },
+					{ "time": 0.1, "name": "fast_vfx_a/fast_vfx_a_08" },
+					{ "time": 0.1333, "name": "fast_vfx_a/fast_vfx_a_09" },
+					{ "time": 0.1667, "name": "fast_vfx_a/fast_vfx_a_10" },
+					{ "time": 0.2, "name": "fast_vfx_a/fast_vfx_a_11" },
+					{ "time": 0.2333, "name": "fast_vfx_a/fast_vfx_a_12" },
+					{ "time": 0.2667, "name": "fast_vfx_a/fast_vfx_a_05" }
+				]
+			}
+		}
+	}
+}
+}

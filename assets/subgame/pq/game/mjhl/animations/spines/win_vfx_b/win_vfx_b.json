@@ -1,0 +1,61 @@
+{
+"skeleton": { "hash": "6qkrVb7mASEaowsXN/AXzhis4MY", "spine": "3.8.99", "x": -100, "y": -155, "width": 200, "height": 250 },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "win_vfx_b/win_vfx_b_00", "bone": "root", "attachment": "win_vfx_b/win_vfx_b_00", "blend": "additive" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"win_vfx_b/win_vfx_b_00": {
+				"win_vfx_b/win_vfx_b_00": { "y": -30, "width": 200, "height": 250 },
+				"win_vfx_b/win_vfx_b_01": { "width": 200, "height": 250 },
+				"win_vfx_b/win_vfx_b_02": { "width": 200, "height": 250 },
+				"win_vfx_b/win_vfx_b_03": { "width": 200, "height": 250 },
+				"win_vfx_b/win_vfx_b_04": { "width": 200, "height": 250 },
+				"win_vfx_b/win_vfx_b_05": { "width": 200, "height": 250 },
+				"win_vfx_b/win_vfx_b_06": { "width": 200, "height": 250 },
+				"win_vfx_b/win_vfx_b_07": { "width": 200, "height": 250 },
+				"win_vfx_b/win_vfx_b_08": { "width": 200, "height": 250 },
+				"win_vfx_b/win_vfx_b_09": { "width": 200, "height": 250 },
+				"win_vfx_b/win_vfx_b_10": { "width": 200, "height": 250 },
+				"win_vfx_b/win_vfx_b_11": { "width": 200, "height": 250 },
+				"win_vfx_b/win_vfx_b_12": { "width": 200, "height": 250 },
+				"win_vfx_b/win_vfx_b_13": { "width": 200, "height": 250 },
+				"win_vfx_b/win_vfx_b_14": { "width": 200, "height": 250 },
+				"win_vfx_b/win_vfx_b_15": { "width": 200, "height": 250 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"win_vfx_b/win_vfx_b_00": {
+				"attachment": [
+					{ "name": "win_vfx_b/win_vfx_b_00" },
+					{ "time": 0.0333, "name": "win_vfx_b/win_vfx_b_01" },
+					{ "time": 0.0667, "name": "win_vfx_b/win_vfx_b_02" },
+					{ "time": 0.1, "name": "win_vfx_b/win_vfx_b_03" },
+					{ "time": 0.1333, "name": "win_vfx_b/win_vfx_b_04" },
+					{ "time": 0.1667, "name": "win_vfx_b/win_vfx_b_05" },
+					{ "time": 0.2, "name": "win_vfx_b/win_vfx_b_06" },
+					{ "time": 0.2333, "name": "win_vfx_b/win_vfx_b_07" },
+					{ "time": 0.2667, "name": "win_vfx_b/win_vfx_b_08" },
+					{ "time": 0.3, "name": "win_vfx_b/win_vfx_b_09" },
+					{ "time": 0.3333, "name": "win_vfx_b/win_vfx_b_10" },
+					{ "time": 0.3667, "name": "win_vfx_b/win_vfx_b_11" },
+					{ "time": 0.4, "name": "win_vfx_b/win_vfx_b_12" },
+					{ "time": 0.4333, "name": "win_vfx_b/win_vfx_b_13" },
+					{ "time": 0.4667, "name": "win_vfx_b/win_vfx_b_14" },
+					{ "time": 0.5, "name": "win_vfx_b/win_vfx_b_15" },
+					{ "time": 0.5333, "name": "win_vfx_b/win_vfx_b_00" }
+				]
+			}
+		}
+	}
+}
+}

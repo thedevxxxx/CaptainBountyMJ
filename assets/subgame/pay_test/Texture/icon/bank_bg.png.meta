@@ -1,0 +1,74 @@
+{
+  "ver": "1.0.22",
+  "importer": "image",
+  "imported": true,
+  "uuid": "4fe7ed27-4953-48e6-b558-473e2f96aa43",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "4fe7ed27-4953-48e6-b558-473e2f96aa43@6c48a",
+      "displayName": "bank_bg",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "wrapModeT": "clamp-to-edge",
+        "wrapModeS": "clamp-to-edge",
+        "mipfilter": "none",
+        "imageUuidOrDatabaseUri": "4fe7ed27-4953-48e6-b558-473e2f96aa43",
+        "anisotropy": 0,
+        "isUuid": true
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "4fe7ed27-4953-48e6-b558-473e2f96aa43@f9941",
+      "displayName": "bank_bg",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "custom",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 570,
+        "height": 28,
+        "rawWidth": 570,
+        "rawHeight": 28,
+        "borderTop": 6,
+        "borderBottom": 4,
+        "borderLeft": 16,
+        "borderRight": 15,
+        "imageUuidOrDatabaseUri": "4fe7ed27-4953-48e6-b558-473e2f96aa43@6c48a",
+        "packable": true,
+        "isUuid": true,
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "hasAlpha": true,
+    "redirect": "4fe7ed27-4953-48e6-b558-473e2f96aa43@f9941"
+  }
+}

@@ -1,0 +1,209 @@
+
+cyGames_loading.png
+size: 2017,278
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 488, 76
+  size: 34, 47
+  orig: 37, 51
+  offset: 1, 4
+  index: -1
+10
+  rotate: false
+  xy: 893, 10
+  size: 133, 115
+  orig: 137, 115
+  offset: 3, 0
+  index: -1
+11
+  rotate: false
+  xy: 1297, 12
+  size: 126, 113
+  orig: 132, 115
+  offset: 3, 2
+  index: -1
+12
+  rotate: false
+  xy: 1425, 12
+  size: 104, 113
+  orig: 106, 113
+  offset: 2, 0
+  index: -1
+13
+  rotate: false
+  xy: 1919, 92
+  size: 88, 102
+  orig: 91, 102
+  offset: 2, 0
+  index: -1
+14
+  rotate: true
+  xy: 204, 6
+  size: 67, 90
+  orig: 70, 95
+  offset: 3, 0
+  index: -1
+15
+  rotate: false
+  xy: 1958, 41
+  size: 43, 49
+  orig: 45, 50
+  offset: 2, 0
+  index: -1
+2
+  rotate: false
+  xy: 147, 4
+  size: 55, 69
+  orig: 58, 73
+  offset: 0, 4
+  index: -1
+3
+  rotate: false
+  xy: 1736, 20
+  size: 76, 105
+  orig: 79, 108
+  offset: 0, 3
+  index: -1
+4
+  rotate: false
+  xy: 1640, 13
+  size: 94, 112
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1531, 13
+  size: 107, 112
+  orig: 110, 112
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 1162, 12
+  size: 133, 113
+  orig: 139, 114
+  offset: 3, 0
+  index: -1
+7
+  rotate: true
+  xy: 640, 2
+  size: 121, 114
+  orig: 126, 114
+  offset: 3, 0
+  index: -1
+8
+  rotate: false
+  xy: 1028, 10
+  size: 132, 115
+  orig: 136, 115
+  offset: 2, 0
+  index: -1
+9
+  rotate: false
+  xy: 756, 8
+  size: 135, 115
+  orig: 140, 115
+  offset: 3, 0
+  index: -1
+bg_tower
+  rotate: true
+  xy: 296, 14
+  size: 59, 342
+  orig: 1202, 677
+  offset: 826, 335
+  index: -1
+card_l
+  rotate: false
+  xy: 309, 88
+  size: 177, 188
+  orig: 192, 199
+  offset: 13, 1
+  index: -1
+card_r
+  rotate: true
+  xy: 147, 75
+  size: 201, 160
+  orig: 203, 171
+  offset: 1, 11
+  index: -1
+crown
+  rotate: false
+  xy: 1887, 196
+  size: 128, 80
+  orig: 128, 93
+  offset: 0, 13
+  index: -1
+ggf
+  rotate: false
+  xy: 766, 127
+  size: 592, 149
+  orig: 592, 149
+  offset: 0, 0
+  index: -1
+ggf2
+  rotate: false
+  xy: 1360, 127
+  size: 525, 149
+  orig: 592, 149
+  offset: 32, 0
+  index: -1
+jinbi_1
+  rotate: true
+  xy: 524, 76
+  size: 47, 31
+  orig: 48, 32
+  offset: 0, 1
+  index: -1
+jinbi_2
+  rotate: true
+  xy: 1919, 39
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+jinbi_3
+  rotate: true
+  xy: 557, 76
+  size: 47, 31
+  orig: 48, 32
+  offset: 1, 0
+  index: -1
+jinbi_4
+  rotate: false
+  xy: 1919, 5
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 590, 95
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
+  index: -1
+shanguang
+  rotate: false
+  xy: 1814, 21
+  size: 103, 104
+  orig: 115, 115
+  offset: 8, 6
+  index: -1
+zi
+  rotate: true
+  xy: 2, 4
+  size: 272, 143
+  orig: 277, 149
+  offset: 3, 3
+  index: -1
+zi_shadow
+  rotate: false
+  xy: 488, 125
+  size: 276, 151
+  orig: 285, 160
+  offset: 4, 5
+  index: -1
